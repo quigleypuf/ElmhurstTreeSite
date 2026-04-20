@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Elmhurst Trees</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="home">
+  <h1>Elmhurst Trees</h1>
+
+  <form id="search-form" class="search-form" autocomplete="off">
+    <input
+      id="tree-id"
+      type="text"
+      inputmode="numeric"
+      pattern="[0-9]*"
+      placeholder="Enter a tree ID (1 - 970)"
+      aria-label="Tree ID"
+      required
+    >
+    <button type="submit">Search</button>
+  </form>
+
+  <script src="trees.js"></script>
+  <script>
+    (function () {
+      var form = document.getElementById('search-form');
+      var input = document.getElementById('tree-id');
+
+      form.addEventListener('submit', function (e) {
+        e.preventDefault();
+        var raw = input.value.trim();
+        // Strip leading zeros / non-digits
+        var id = raw.replace(/^0+/, '') || raw;
+        if (!/^[0-9]+$/.test(id) || !TREES.hasOwnProperty(id)) {
+          // Invalid — do not navigate. Give a subtle visual cue.
+          input.classList.add('invalid');
+          return;
+        }
+        input.classList.remove('invalid');
+        window.location.href = 'tree.html?id=' + encodeURIComponent(id);
+      });
+
+      input.addEventListener('input', function () {
+        input.classList.remove('invalid');
+      });
+    })();
+  </script>
+</body>
+</html>

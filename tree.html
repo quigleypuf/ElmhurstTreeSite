@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tree — Elmhurst Trees</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="page">
+    <a class="back-link" href="index.html">&larr; Back to search</a>
+    <div id="content"></div>
+  </div>
+
+  <script src="trees.js"></script>
+  <script>
+    (function () {
+      function escapeHtml(s) {
+        if (s === null || s === undefined) return '';
+        return String(s)
+          .replace(/&/g, '&amp;')
+          .replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;')
+          .replace(/"/g, '&quot;')
+          .replace(/'/g, '&#39;');
+      }
+
+      function getParam(name) {
+        var m = new RegExp('[?&]' + name + '=([^&]*)').exec(window.location.search);
+        return m ? decodeURIComponent(m[1]) : '';
+      }
+
+      function hasValue(v) {
+        if (v === null || v === undefined) return false;
+        var s = String(v).trim();
+        if (s === '' || s.toUpperCase() === 'N/A') return false;
+        return true;
+      }
+
+      function hasYear(v) {
+        // Year is blank if empty, 'N/A', or '0'.
+        if (!hasValue(v)) return false;
+        return String(v).trim() !== '0';
+      }
+
+      function render(tree) {
+        var parts = [];
+
+        // Header: ID + name
+        parts.push(
+          '<header class="tree-header">' +
+            '<p class="tree-id">Tree #' + escapeHtml(tree.tree_id) + '</p>' +
+            '<h1 class="tree-name">' + escapeHtml(tree.tree_name) + '</h1>' +
+          '</header>'
+        );
+
+        // Optional dedication section
+        var dedType = (tree.dedication_type || '').trim();
+        var hasDedication = dedType !== '' && dedType.toUpperCase() !== 'N/A';
+
+        if (hasDedication) {
+          var dedRows = '';
+          if (hasYear(tree.dedication_year)) {
+            dedRows += '<tr><th>Year</th><td>' + escapeHtml(tree.dedication_year) + '</td></tr>';
+          }
+          if (hasValue(tree.dedication_honoree)) {
+            dedRows += '<tr><th>Honoree</th><td>' + escapeHtml(tree.dedication_honoree) + '</td></tr>';
+          }
+          if (hasValue(tree.dedication_desc)) {
+            dedRows += '<tr><th>Description</th><td>' + escapeHtml(tree.dedication_desc) + '</td></tr>';
+          }
+
+          // Only render section if at least one row survived
+          if (dedRows) {
+            // Build heading. "Memorial" -> "Memorial Dedication"; "To honor" -> "To Honor";
+            // "Class tree" -> "Class Tree"; everything else title-cased as-is.
+            var headingBase = dedType.replace(/\b\w/g, function (c) { return c.toUpperCase(); });
+            var heading = (dedType.toLowerCase() === 'memorial')
+              ? 'Memorial Dedication'
+              : headingBase;
+
+            parts.push(
+              '<section class="section">' +
+                '<h2>' + escapeHtml(heading) + '</h2>' +
+                '<table class="info"><tbody>' + dedRows + '</tbody></table>' +
+              '</section>'
+            );
+          }
+        }
+
+        // Main info table
+        var sci = hasValue(tree.scientific_name) ? tree.scientific_name : '';
+        var extra = hasValue(tree.additional_taxonomy) ? tree.additional_taxonomy : '';
+        var sciCell =
+          '<span class="sci-name">' + escapeHtml(sci) + '</span>' +
+          (extra ? '<span class="extra-taxonomy">' + escapeHtml(extra) + '</span>' : '');
+
+        var infoRows = [
+          ['Scientific name', sciCell, true],
+          ['Height class', escapeHtml(tree.height_class || ''), false],
+          ['Diameter at breast height', escapeHtml(tree.diameter_breast_height || ''), false],
+          ['Age class', escapeHtml(tree.age_class || ''), false],
+          ['Canopy', escapeHtml(tree.canopy_radius || ''), false],
+          ['Condition', escapeHtml(tree.condition || ''), false]
+        ].map(function (row) {
+          return '<tr><th>' + row[0] + '</th><td>' + row[1] + '</td></tr>';
+        }).join('');
+
+        parts.push(
+          '<section class="section">' +
+            '<table class="info"><tbody>' + infoRows + '</tbody></table>' +
+          '</section>'
+        );
+
+        document.getElementById('content').innerHTML = parts.join('');
+        document.title = tree.tree_name + ' — Elmhurst Trees';
+      }
+
+      function renderNotFound(id) {
+        document.getElementById('content').innerHTML =
+          '<div class="not-found">' +
+            '<h1>Tree not found</h1>' +
+            '<p>No record for tree ID ' + escapeHtml(id || '(none)') + '.</p>' +
+          '</div>';
+      }
+
+      var id = getParam('id').replace(/^0+/, '') || getParam('id');
+      if (id && TREES.hasOwnProperty(id)) {
+        render(TREES[id]);
+      } else {
+        renderNotFound(id);
+      }
+    })();
+  </script>
+</body>
+</html>
