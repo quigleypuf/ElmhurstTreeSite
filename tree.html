@@ -13,6 +13,7 @@
   </div>
 
   <script src="trees.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
   <script>
     (function () {
       function escapeHtml(s) {
@@ -112,8 +113,38 @@
           '</section>'
         );
 
+        // QR code section linking back to this exact page
+        parts.push(
+          '<section class="section qr-section">' +
+            '<h2>Share this tree</h2>' +
+            '<div id="qrcode" class="qr-code"></div>' +
+            '<p class="qr-caption">Scan to open this page on another device.</p>' +
+          '</section>'
+        );
+
         document.getElementById('content').innerHTML = parts.join('');
         document.title = tree.tree_name + ' — Elmhurst Trees';
+
+        // Generate the QR code pointing to the current URL.
+        renderQrCode();
+      }
+
+      function renderQrCode() {
+        var container = document.getElementById('qrcode');
+        if (!container || typeof QRCode === 'undefined') return;
+        container.innerHTML = '';
+        try {
+          new QRCode(container, {
+            text: window.location.href,
+            width: 160,
+            height: 160,
+            colorDark: '#1f2937',
+            colorLight: '#ffffff',
+            correctLevel: QRCode.CorrectLevel.M
+          });
+        } catch (err) {
+          // Silently fail — page still useful without the QR code.
+        }
       }
 
       function renderNotFound(id) {
