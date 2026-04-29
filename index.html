@@ -20,6 +20,9 @@
       required
     >
     <button type="submit">Search</button>
+         <p id="error-msg" class="error-msg" style="display:none;">
+      Please enter a valid tree ID between 1 and 970.
+    </p>
   </form>
 
   <script src="trees.js"></script>
@@ -36,14 +39,18 @@
         if (!/^[0-9]+$/.test(id) || !TREES.hasOwnProperty(id)) {
           // Invalid — do not navigate. Give a subtle visual cue.
           input.classList.add('invalid');
+            document.getElementById('error-msg').style.display = 'block';
           return;
         }
         input.classList.remove('invalid');
+        document.getElementById('error-msg').style.display = 'none';
+          return;
         window.location.href = 'tree.html?id=' + encodeURIComponent(id);
       });
 
       input.addEventListener('input', function () {
         input.classList.remove('invalid');
+        document.getElementById('error-msg').style.display = 'none';
       });
     })();
   </script>

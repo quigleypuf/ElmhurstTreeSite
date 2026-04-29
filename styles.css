@@ -44,10 +44,19 @@ html, body {
 
 .search-form {
   display: flex;
+  flex-wrap: wrap;
   gap: 8px;
   width: 100%;
   max-width: 420px;
 }
+
+.error-msg{
+  color: red;
+  font-size: 0.875rem;
+  width: 100%;
+  text-align: center;
+}
+
 
 .search-form input {
   flex: 1;
