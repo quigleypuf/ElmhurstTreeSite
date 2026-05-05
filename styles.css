@@ -12,16 +12,27 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: var(--bg);
   color: var(--fg);
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   line-height: 1.5;
 }
 
+body {
+  /* Full-bleed photo background that stretches to cover the viewport
+     and stays put while the page scrolls. */
+  background:
+    var(--bg) url('BackgroundImage.jpeg') center center / cover no-repeat fixed;
+  min-height: 100vh;
+}
+
 .page {
   max-width: 720px;
-  margin: 0 auto;
-  padding: 48px 24px 64px;
+  margin: 48px auto 64px;
+  padding: 32px 32px 48px;
+  /* Translucent white card so content remains readable over the photo. */
+  background: rgba(255, 255, 255, 0.92);
+  border-radius: 12px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.08);
 }
 
 /* Homepage */
@@ -38,6 +49,8 @@ html, body {
   font-weight: 600;
   margin: 0 0 28px;
   letter-spacing: -0.02em;
+  /* Subtle halo so the title stays legible on any background tone. */
+  text-shadow: 0 1px 3px rgba(255, 255, 255, 0.7);
 }
 
 /* Tree list on the homepage */
@@ -46,6 +59,10 @@ html, body {
   max-width: 720px;
   margin: 48px auto 0;
   text-align: left;
+  background: rgba(255, 255, 255, 0.92);
+  border-radius: 12px;
+  padding: 24px 28px 28px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.08);
 }
 
 .tree-list-section h2 {
@@ -167,6 +184,23 @@ table.tree-list tr.tree-list-status td {
 }
 
 .back-link:hover { color: var(--accent); }
+
+/* Tree photo banner at the top of the tree detail page */
+.tree-photo {
+  margin: 0 0 24px;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  background: #f3f4f6;
+}
+
+.tree-photo img {
+  display: block;
+  width: 100%;
+  max-height: 480px;
+  object-fit: cover;
+  object-position: center;
+}
 
 .tree-header {
   border-bottom: 1px solid var(--border);

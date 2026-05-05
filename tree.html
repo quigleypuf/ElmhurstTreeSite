@@ -8,9 +8,6 @@
   <link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"
-    integrity="sha512-h9FcoyWjHcOcmEVkxOfTLnmZFWIH0iZhZT1H2TbOq55xssQGEJHEaIm+PgoUaZbRvQTNTluNOEfb1ZRy6D3BOw=="
-    crossorigin="anonymous"
-    referrerpolicy="no-referrer"
   >
 </head>
 <body>
@@ -23,9 +20,6 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
   <script
     src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"
-    integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
-    crossorigin="anonymous"
-    referrerpolicy="no-referrer"
   ></script>
   <script>
     (function () {
@@ -59,6 +53,18 @@
 
       function render(tree) {
         var parts = [];
+
+        // Optional tree photo (only some trees have one).
+        if (hasValue(tree.image_path)) {
+          parts.push(
+            '<figure class="tree-photo">' +
+              '<img src="' + escapeHtml(tree.image_path) + '" ' +
+                  'alt="Photograph of ' + escapeHtml(tree.tree_name) + '" ' +
+                  'loading="lazy" ' +
+                  'onerror="this.closest(\'figure\').style.display=\'none\'">' +
+            '</figure>'
+          );
+        }
 
         // Header: ID + name
         parts.push(
@@ -165,7 +171,11 @@
 
       function renderMap(lat, lng, name) {
         var el = document.getElementById('tree-map');
-        if (!el || typeof L === 'undefined') return;
+        if (!el) return;
+        if (typeof L === 'undefined') {
+          console.error('Leaflet failed to load — map will not render.');
+          return;
+        }
         try {
           var map = L.map(el, {
             center: [lat, lng],
@@ -180,8 +190,13 @@
             .addTo(map)
             .bindPopup(name)
             .openPopup();
+          // Defensive: if the container's size wasn't fully resolved when the
+          // map initialized (common when the map is injected via innerHTML),
+          // tiles can render in the wrong place and leave the map looking blank.
+          // invalidateSize forces Leaflet to re-measure and redraw.
+          setTimeout(function () { map.invalidateSize(); }, 100);
         } catch (err) {
-          // Map is non-essential — silently degrade if anything goes wrong.
+          console.error('Leaflet map init failed:', err);
         }
       }
 
