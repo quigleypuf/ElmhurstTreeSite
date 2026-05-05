@@ -26,13 +26,11 @@ html, body {
 
 /* Homepage */
 .home {
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
   text-align: center;
-  padding: 24px;
+  padding: 64px 24px 64px;
 }
 
 .home h1 {
@@ -40,6 +38,82 @@ html, body {
   font-weight: 600;
   margin: 0 0 28px;
   letter-spacing: -0.02em;
+}
+
+/* Tree list on the homepage */
+.tree-list-section {
+  width: 100%;
+  max-width: 720px;
+  margin: 48px auto 0;
+  text-align: left;
+}
+
+.tree-list-section h2 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin: 0 0 12px;
+  color: var(--accent);
+}
+
+table.tree-list {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+table.tree-list thead th {
+  position: sticky;
+  top: 0;
+  background: var(--bg);
+  text-align: left;
+  font-weight: 500;
+  color: var(--muted);
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--border);
+}
+
+table.tree-list tbody td {
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+}
+
+table.tree-list .col-id {
+  width: 64px;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+}
+
+table.tree-list tr.tree-row {
+  cursor: pointer;
+  transition: background 0.1s;
+}
+
+table.tree-list tr.tree-row:hover,
+table.tree-list tr.tree-row:focus {
+  background: #f9fafb;
+  outline: none;
+}
+
+table.tree-list tr.tree-row:focus-visible {
+  box-shadow: inset 0 0 0 2px var(--accent);
+}
+
+table.tree-list a.tree-link {
+  color: var(--fg);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+table.tree-list a.tree-link:hover {
+  color: var(--accent-hover);
+  text-decoration: underline;
+}
+
+table.tree-list tr.tree-list-status td {
+  color: var(--muted);
+  text-align: center;
+  padding: 24px 12px;
 }
 
 .search-form {
@@ -169,6 +243,17 @@ table.info tr:last-child td {
 .not-found h1 {
   color: var(--fg);
   margin-bottom: 12px;
+}
+
+/* Leaflet map on tree pages */
+.tree-map {
+  width: 100%;
+  height: 360px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  /* Leaflet drops a high z-index on its panes which can sit on top of
+     other UI; clipping rounded corners requires overflow:hidden. */
+  overflow: hidden;
 }
 
 /* QR code section on tree pages */

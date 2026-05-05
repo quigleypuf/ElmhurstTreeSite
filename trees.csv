@@ -1,0 +1,756 @@
+tree_id,tree_name,latitude,longitude,dedication_type,dedication_year,dedication_honoree,dedication_desc,scientific_name,additional_taxonomy,height_class,diameter_breast_height,age_class,canopy_radius,condition,image_path
+1,Chestnut Oak,41.894508362,-87.945060730,Memorial,2005,Eleanor J. Moore,In ground marker,Quercus prinus,,Large,19 in.,Mature,15 ft.,Good,images/1.jpeg
+2,Canadian Hemlock,41.894580841,-87.945053101,N/A,,,,Tsuga canadensis,,Medium,3 in.,Young,6 ft.,Good,images/2.jpg
+3,Northern Catalpa,41.894565582,-87.945129395,N/A,,,,Catalpa speciosa,,Large,29 in.,Mature,15 ft.,Good,images/3.jpg
+4,European Beech,41.894519806,-87.945251465,Memorial,,Miriam Bonifield Jones,In ground marker,Fagus sylvatica,Rohanii,Medium,20 in.,Semi-mature,0 ft.,Good,images/4.jpg
+5,Cucumbertree,41.894493103,-87.945396423,N/A,,,,Magnolia acuminata,MAAC Magnolia accuminata,Medium,5 in.,Semi-mature,6 ft.,Fair,images/5.jpg
+6,Hardy Rubber Tree,41.894527435,-87.945579529,N/A,,,,Eucommia ulmoides,,Medium,13 in.,Semi-mature,10 ft.,Good,images/6.jpg
+7,Star Magnolia,41.894523621,-87.945686340,N/A,,,,Magnolia stellata,,Small,3 in.,Semi-mature,6 ft.,Good,images/7.jpg
+8,Black Walnut,41.894485474,-87.945755005,N/A,,,,Juglans nigra,,Large,18 in.,Mature,15 ft.,Good,images/8.jpg
+9,European Beech,41.894470215,-87.945854187,N/A,,,,Fagus sylvatica,FASY Fagus sylvatica,Small,3 in.,Young,6 ft.,Good,
+10,Tuliptree,41.894512177,-87.945899963,N/A,,,,Liriodendron tulipifera,Aureomarginatum,Small,1 in.,New planting,1 ft.,Good,
+11,Littleleaf Linden,41.894531250,-87.945991516,N/A,,,,Tilia cordata,,Large,13 in.,Semi-mature,10 ft.,Good,images/11.jpg
+14,Cucumbertree,41.894565582,-87.946060181,N/A,,,,Magnolia acuminata,MAAC Magnolia accuminata,Large,15 in.,Mature,15 ft.,Good,images/14.jpg
+16,Common Honeylocust,41.894599915,-87.946304321,N/A,,,,Gleditsia triacanthos,,Large,24 in.,Mature,15 ft.,Good,
+17,Common Honeylocust,41.894756317,-87.946578979,N/A,,,,Gleditsia triacanthos,,Large,18 in.,Mature,15 ft.,Good,
+18,Common Honeylocust,41.894779205,-87.946655273,N/A,,,,Gleditsia triacanthos,,Large,18 in.,Mature,15 ft.,Good,
+19,American Elm,41.894805908,-87.946685791,N/A,,,,Ulmus americana,,Large,28 in.,Mature,20 ft.,Fair,images/19.jpg
+20,Hackberry,41.894985199,-87.946586609,N/A,,,,Celtis occidentalis,,Large,27 in.,Mature,20 ft.,Good,
+21,American Elm,41.894859314,-87.946350098,N/A,,,,Ulmus americana,,Large,28 in.,Mature,30 ft.,Good,
+22,American Elm,41.894912720,-87.946304321,N/A,,,,Ulmus americana,,Large,29 in.,Mature,30 ft.,Good,
+23,American Elm,41.894893646,-87.946258545,N/A,,,,Ulmus americana,,Large,27 in.,Mature,25 ft.,Good,
+24,Black Walnut,41.894821167,-87.946144104,N/A,,,,Juglans nigra,,Large,36 in.,Mature,25 ft.,Good,
+25,Cucumbertree,41.894836426,-87.946060181,N/A,,,,Magnolia acuminata,MAAC Magnolia accuminata,Large,12 in.,Mature,10 ft.,Fair,
+26,Cucumbertree,41.894744873,-87.946083069,N/A,,,,Magnolia acuminata,MAAC Magnolia accuminata,Large,12 in.,Mature,10 ft.,Poor,
+27,Cucumbertree,41.894657135,-87.946083069,N/A,,,,Magnolia acuminata,MAAC Magnolia accuminata,Large,9 in.,Mature,10 ft.,Fair,
+28,Colorado Blue Spruce,41.894844055,-87.945823669,N/A,,,,Picea pungens,Girardi,Small,1 in.,Mature,1 ft.,Fair,
+29,European Beech,41.894844055,-87.945785522,N/A,,,,Fagus sylvatica,FASY Fagus sylvatica,Medium,5 in.,Young,6 ft.,Good,
+30,Three Flower Maple,41.894809723,-87.945228577,N/A,,,,Acer triflorum,,Small,3 in.,Mature,6 ft.,Good,
+31,Star Magnolia,41.894851685,-87.945289612,N/A,,,,Magnolia stellata,,Medium,6 in.,Mature,10 ft.,Fair,images/31.jpeg
+32,Canadian Hemlock,41.894622803,-87.945014954,N/A,,,,Tsuga canadensis,,Small,3 in.,Young,6 ft.,Fair,
+33,White Oak,41.894741058,-87.944984436,To honor,1986,Edwin H. Sprandel,In ground marker,Quercus alba,,Large,16 in.,Semi-mature,10 ft.,Good,images/33.jpeg
+34,Ginkgo,41.894786835,-87.945030212,To honor,2017,Dr. Eugene Losey,,Ginkgo biloba,,Large,14 in.,Semi-mature,10 ft.,Fair,images/34.jpg
+35,American Elm,41.894821167,-87.945083618,N/A,,,,Ulmus americana,,Large,33 in.,Mature,20 ft.,Fair,
+38,Dawn Redwood,41.894912720,-87.945625305,To honor,1991,Herbert M. Licht,In ground marker,Metasequoia glyptostroboides,,Large,27 in.,Semi-mature,15 ft.,Good,images/38.jpg
+39,Loebner Magnolia,41.894939423,-87.945739746,N/A,,,,Magnolia x loebneri,,Medium,10 in.,Mature,10 ft.,Good,images/39.jpg
+40,Loebner Magnolia,41.895000458,-87.945739746,N/A,,,,Magnolia x loebneri,,Medium,8 in.,Mature,10 ft.,Good,
+41,Loebner Magnolia,41.895034790,-87.945732117,N/A,,,,Magnolia x loebneri,,Medium,9 in.,Mature,10 ft.,Good,
+42,Loebner Magnolia,41.895103455,-87.945739746,N/A,,,,Magnolia x loebneri,,Medium,7 in.,Mature,10 ft.,Good,
+43,Loebner Magnolia,41.895172119,-87.945732117,N/A,,,,Magnolia x loebneri,,Medium,7 in.,Mature,10 ft.,Good,
+44,Loebner Magnolia,41.895221710,-87.945716858,N/A,,,,Magnolia x loebneri,,Medium,7 in.,Mature,10 ft.,Good,
+45,Loebner Magnolia,41.895252228,-87.945747375,N/A,,,,Magnolia x loebneri,,Medium,9 in.,Mature,10 ft.,Good,images/45.jpg
+46,Chinese Catalpa,41.895263672,-87.945747375,N/A,,,,Catalpa ovata,,Small,3 in.,Young,10 ft.,Good,
+47,Chestnut Oak,41.895130157,-87.945610046,To honor,2008,Dr. David S. Lindberg,In ground marker,Quercus prinus,,Large,18 in.,Mature,15 ft.,Good,images/47.jpg
+48,American Beech,41.895023346,-87.945571899,Memorial,1992,Theodore B. Holliday,In ground marker,Fagus grandifolia,,Large,14 in.,Semi-mature,15 ft.,Good,images/48.jpg
+49,Chestnut Oak,41.895019531,-87.945434570,To honor,2008,Dr. Earl Herbert Meseth,In ground marker,Quercus prinus,,Large,17 in.,Semi-mature,20 ft.,Good,images/49.jpg
+50,Ginkgo,41.895008087,-87.945259094,Memorial,1996,Claire Bartels,In ground marker,Ginkgo biloba,,Large,12 in.,Semi-mature,15 ft.,Good,images/50.jpeg
+51,Black Walnut,41.895030975,-87.945205688,N/A,,,,Juglans nigra,,Large,28 in.,Mature,25 ft.,Good,
+52,Japanese Larch,41.894977570,-87.945037842,N/A,,,,Larix kaempferi,,Medium,9 in.,Semi-mature,10 ft.,Fair,
+53,Sugar Maple,41.895092010,-87.945053101,N/A,,,,Acer saccharum,Goldspire,Large,11 in.,Mature,6 ft.,Fair,images/53.jpg
+54,Norway Maple,41.895137787,-87.945114136,To honor,1997,John H. Licht,In ground marker,Acer platanoides,Summershade,Large,15 in.,Mature,15 ft.,Good,images/54.jpeg
+55,European Beech,41.895298004,-87.945037842,Memorial,0,Roger A. Schmiege,In ground marker,Fagus sylvatica,FASY Fagus sylvatica,Large,9 in.,Semi-mature,10 ft.,Good,images/55.jpeg
+56,Ginkgo,41.895332336,-87.945159912,Other,2017,Mary Kay Jacobs Bristol,,Ginkgo biloba,,Large,15 in.,Mature,10 ft.,Good,images/56.jpg
+57,Common Sweetgum,41.895179749,-87.945083618,N/A,,,,Liquidambar styraciflua,,Large,13 in.,Semi-mature,15 ft.,Good,
+59,European Beech,41.895294189,-87.945289612,To honor,1997,Jeffrey and Carol Jean Licht,In ground marker,Fagus sylvatica,FASY Fagus sylvatica,Large,17 in.,Mature,15 ft.,Good,images/59.jpeg
+60,Japanese Larch,41.895324707,-87.945373535,N/A,,,,Larix kaempferi,,Small,4 in.,Young,10 ft.,Fair,images/60.jpg
+61,American Elm,41.895267487,-87.945457458,N/A,,,,Ulmus americana,,Large,41 in.,Mature,20 ft.,Good,images/61.jpg
+62,American Elm,41.895256042,-87.945495605,N/A,,,,Ulmus americana,,Large,45 in.,Mature,25 ft.,Good,images/62.jpg
+63,Black Walnut,41.895298004,-87.945556641,N/A,,,,Juglans nigra,,Large,17 in.,Semi-mature,15 ft.,Good,images/63.jpg
+65,Ginkgo,41.895515442,-87.945747375,Memorial,1993,Susan Limper Fox,In ground marker,Ginkgo biloba,,Large,21 in.,Mature,20 ft.,Good,images/65.jpg
+66,Common Baldcypress,41.895568848,-87.945556641,To honor,2016,James Smith,,Taxodium distichum,,Large,11 in.,Semi-mature,10 ft.,Good,images/66.jpg
+68,Norway Maple,41.895511627,-87.945549011,N/A,,,,Acer platanoides,ACPL Acer platanoides,Large,17 in.,Mature,20 ft.,Good,
+69,Norway Maple,41.895511627,-87.945449829,N/A,,,,Acer platanoides,ACPL Acer platanoides,Large,15 in.,Mature,15 ft.,Good,images/69.jpg
+70,Norway Maple,41.895465851,-87.945373535,N/A,,,,Acer platanoides,ACPL Acer platanoides,Large,17 in.,Mature,20 ft.,Good,images/70.jpg
+71,Norway Maple,41.895492554,-87.945304871,N/A,,,,Acer platanoides,ACPL Acer platanoides,Large,15 in.,Mature,20 ft.,Good,
+72,Common Baldcypress,41.895519257,-87.945335388,N/A,,,,Taxodium distichum,,Large,14 in.,Mature,15 ft.,Good,images/72.jpg
+73,Oak,41.895545959,-87.945190430,N/A,2014,Senior Lodge Attic Gang,,Quercus sp,QUAC Quercus robur x macrocarpa Heritage,Small,1.75 in.,New planting,2.5 ft.,Good,images/73.jpg
+74,Red Maple,41.895465851,-87.945106506,N/A,,,,Acer rubrum,,Large,15 in.,Mature,15 ft.,Fair,images/74.jpg
+75,Sugar Maple,41.895565033,-87.945007324,N/A,,,,Acer saccharum,,Large,33 in.,Mature,25 ft.,Good,images/75.jpg
+77,European Beech,41.895709991,-87.945198059,Memorial,1997,Brad Muller,In ground marker,Fagus sylvatica,FASY Fagus sylvatica fernleaf,Large,22 in.,Mature,25 ft.,Good,images/77.jpg
+78,European Beech,41.895748138,-87.945274353,Memorial,1994,Franklin L. Buehler,In ground marker,Fagus sylvatica,FASY Fagus sylvatica weeping,Large,16 in.,Mature,20 ft.,Good,images/78.jpeg
+79,Austrian Pine,41.895675659,-87.945083618,N/A,,,,Pinus nigra,,Large,12 in.,Mature,10 ft.,Fair,
+80,Sugar Maple,41.895782471,-87.945030212,N/A,,,,Acer saccharum,,Large,28 in.,Mature,15 ft.,Fair,
+81,Witchhazel,41.895801544,-87.945373535,N/A,,,,Hamamelis virginiana,HAVI Hamamelis viginiana,Small,2 in.,Semi-mature,6 ft.,Good,images/81.jpg
+82,Pagoda Dogwood,41.895866394,-87.945411682,N/A,,,,Cornus alternifolia,,Small,4 in.,Mature,10 ft.,Good,
+83,Pagoda Dogwood,41.895843506,-87.945495605,N/A,,,,Cornus alternifolia,,Small,3 in.,Mature,10 ft.,Good,
+85,Star Magnolia,41.895854950,-87.945625305,N/A,,,,Magnolia stellata,,Medium,5 in.,Semi-mature,10 ft.,Good,
+86,Cornelian Cherry Dogwood,41.895782471,-87.945747375,N/A,,,,Cornus mas,,Small,3 in.,Mature,10 ft.,Good,
+87,Cornelian Cherry Dogwood,41.895744324,-87.945716858,N/A,,,,Cornus mas,,Small,3 in.,Mature,10 ft.,Good,images/87.jpg
+89,Lavalle Hawthorn,41.895725250,-87.945686340,N/A,2012,EC&C,,Crataegus x lavallei,nitida,Medium,11 in.,Mature,15 ft.,Good,images/89.jpg
+90,Shingle Oak,41.895820618,-87.945739746,To honor,1993,John and Elizabeth Jump,In ground marker,Quercus imbricaria,,Large,15 in.,Mature,10 ft.,Fair,images/90.jpg
+91,American Linden,41.895896912,-87.945617676,Memorial,1997,Rev. Milton L. Straube & Edna M. Schumann Straube,In ground marker,Tilia americana,Redmond,Small,2 in.,Young,4 ft.,Good,images/91.jpg
+92,European Beech,41.895866394,-87.945350647,To honor,2014,Richard Paulsen,In ground marker,Fagus sylvatica,Swat Magret,Medium,5 in.,Young,6 ft.,Good,images/92.jpg
+96,Elm,41.895992279,-87.945098877,Commemorative tree,2013,The Liberty Tree,In ground marker,Ulmus sp,Accolade,Large,5 in.,Young,6 ft.,Good,images/96.jpeg
+97,Elm,41.896030426,-87.945014954,To honor,2009,Karen Jurcazak,In ground marker,Ulmus sp,Patriot,Medium,2 in.,Young,1 ft.,Good,images/97.jpg
+98,European Beech,41.896129608,-87.945121765,To honor,0,Vicki Sliger and Jennifer Hamilton,In ground marker,Fagus sylvatica,Riversii,Medium,8 in.,Semi-mature,10 ft.,Good,images/98.jpg
+99,European Beech,41.896102905,-87.945289612,To honor,1997,Jennifer Hamilton,In ground marker,Fagus sylvatica,Laciniata,Medium,,Semi-mature,15 ft.,Good,images/99.jpg
+100,Common Sweetgum,41.896011353,-87.945259094,Memorial,0,Donald R. Fearn,In ground marker,Liquidambar styraciflua,,Large,18 in.,Mature,10 ft.,Good,images/100.jpg
+102,Colorado Blue Spruce,41.895969391,-87.945419312,N/A,,,,Picea pungens,,Large,15 in.,Mature,10 ft.,Good,
+103,Colorado Blue Spruce,41.895942688,-87.945281982,N/A,,,,Picea pungens,,Large,12 in.,Mature,10 ft.,Good,
+104,Colorado Blue Spruce,41.895992279,-87.945381165,N/A,,,,Picea pungens,,Large,16 in.,Mature,10 ft.,Good,images/104.jpg
+105,Crabapple,41.896129608,-87.945411682,Memorial,0,Sofija Sonja Basaric,In ground marker,Malus sp,,Small,9 in.,Mature,10 ft.,Good,images/105.jpg
+106,Eastern Redbud,41.896305084,-87.945404053,Memorial,0,Herbert H. Grote,In ground marker,Cercis canadensis,CECA Cercis canadensis,Small,4 in.,Semi-mature,10 ft.,Good,images/106.jpg
+107,Norway Maple,41.896278381,-87.945243835,Memorial,2002,Thomas and Dorothy Hillman,In ground marker,Acer platanoides,ACPL Acer platanoides,Large,17 in.,Mature,15 ft.,Good,images/107.jpg
+109,Elm,41.896408081,-87.945030212,Memorial,0,William J. and Betty Roefer Haude,In ground marker,Ulmus sp,Accolade,Small,5 in.,Young,6 ft.,Good,images/109.jpg
+110,Austrian Pine,41.896503448,-87.945007324,N/A,,,,Pinus nigra,,Large,16 in.,Mature,15 ft.,Good,images/110.jpg
+112,Bigleaf Linden,41.896545410,-87.945236206,To honor,1997,Rev. Arlan E. Schlundt and Sharon Straube Schlundt,In ground marker,Tilia platyphyllos,Fastigiata,Large,18 in.,Semi-mature,15 ft.,Good,images/112.jpg
+113,European Hornbeam,41.896423340,-87.945243835,N/A,,,,Carpinus betulus,Pendula,Small,5 in.,Young,10 ft.,Good,
+114,Eastern Redbud,41.896354675,-87.945335388,Memorial,0,Harold Grote,In ground marker,Cercis canadensis,CECA Cercis canadensis,Small,3 in.,Young,6 ft.,Good,images/114.jpeg
+115,Colorado Blue Spruce,41.896465302,-87.945411682,N/A,,,,Picea pungens,,Large,13 in.,Mature,10 ft.,Good,
+117,Colorado Blue Spruce,41.896434784,-87.945419312,N/A,,,,Picea pungens,,Large,12 in.,Mature,10 ft.,Good,
+118,Ohio Buckeye,41.896492004,-87.945404053,To honor,0,Dr. Robert E. Koenig & Rev. Norma E. Koenig,In ground marker,Aesculus glabra,Flava Aition,Large,15 in.,Mature,15 ft.,Good,images/118.jpg
+119,American Hophornbeam,41.896442413,-87.945495605,To honor,1997,Jody Baty and Bill,In ground marker,Ostrya virginiana,,Small,3 in.,Young,10 ft.,Good,images/119.jpg
+120,Bigleaf Linden,41.896568298,-87.945678711,Memorial,1996,Edwin and Charlotte Skrzymowski,In ground marker,Tilia platyphyllos,Laciniata,Large,16 in.,Semi-mature,15 ft.,Good,images/120.jpg
+121,Colorado Blue Spruce,41.896568298,-87.945678711,N/A,,,,Picea pungens,,Large,13 in.,Mature,10 ft.,Good,
+122,American Linden,41.896636963,-87.945709229,N/A,,,,Tilia americana,,Large,18 in.,Mature,15 ft.,Good,
+123,Colorado Blue Spruce,41.896564484,-87.945755005,N/A,,,,Picea pungens,,Large,12 in.,Mature,10 ft.,Good,
+125,Littleleaf Linden,41.896434784,-87.945724487,Memorial,2001,Jane Hermanson,In ground marker,Tilia cordata,Glenleven,Small,3 in.,Young,6 ft.,Good,images/125.jpg
+126,American Beech,41.896411896,-87.945617676,Memorial,0,Dorothy Fiegenbaum,In ground marker,Fagus grandifolia,,Medium,10 in.,Semi-mature,15 ft.,Good,images/126.jpg
+127,Tuliptree,41.896316528,-87.945472717,To honor,1993,Karl Henning Carlson,In ground marker,Liriodendron tulipifera,,Large,22 in.,Mature,20 ft.,Fair,images/127.jpg
+128,Sugar Maple,41.896358490,-87.945549011,To honor,1997,Trevor W. Pinch,In ground marker,Acer saccharum,,Large,12 in.,Semi-mature,15 ft.,Good,images/128.jpg
+129,Sugar Maple,41.896385193,-87.945671082,N/A,,,,Acer saccharum,,Large,9 in.,Semi-mature,15 ft.,Fair,
+130,Japanese Maple,41.896385193,-87.945716858,Memorial,0,Rick Ferraro,In ground marker,Acer palmatum,,Small,4 in.,Mature,6 ft.,Good,images/130.jpg
+131,Littleleaf Linden,41.896305084,-87.945732117,To honor,1994,Ivan and Ruth Frick,In ground marker,Tilia cordata,,Large,17 in.,Mature,20 ft.,Good,images/131.jpg
+132,Littleleaf Linden,41.896091461,-87.945838928,Memorial,1991,Howard S. Hermanson,In ground marker,Tilia cordata,,Large,16 in.,Mature,20 ft.,Good,images/132.jpg
+133,Sugar Maple,41.896110535,-87.945671082,Class tree,2001,Class of 1951,In ground marker,Acer saccharum,,Large,13 in.,Semi-mature,15 ft.,Fair,images/133.jpg
+134,Littleleaf Linden,41.896060944,-87.945671082,Memorial,1996,Rose Weigand,In ground marker,Tilia cordata,,Large,20 in.,Mature,25 ft.,Good,images/134.jpg
+135,Yellowwood,41.896003723,-87.945739746,Memorial,0,Walter Wadepuhl,In ground marker,Cladrastis kentukea,,Large,10 in.,Mature,10 ft.,Good,images/135.jpeg
+136,Colorado Blue Spruce,41.895923615,-87.945747375,N/A,,,,Picea pungens,,Large,17 in.,Mature,10 ft.,Good,
+137,Norway Maple,41.895935059,-87.945533752,Memorial,1994,Wes McCain,In ground marker,Acer platanoides,Emerald Lustre,Small,2 in.,Young,4 ft.,Good,images/137.jpg
+138,American Beech,41.896038055,-87.945610046,Memorial,0,Mary H. Nelson,In ground marker,Fagus grandifolia,,Medium,10 in.,Semi-mature,15 ft.,Good,images/138.jpeg
+139,Sugar Maple,41.896144867,-87.945541382,Memorial,1997,Florence S. Kammerer,In ground marker,Acer saccharum,,Large,11 in.,Semi-mature,15 ft.,Good,images/139.jpg
+140,Crimean Linden,41.896144867,-87.945541382,Memorial,2002,Roger S. Gavin,In ground marker,Tilia x euchlora,TIEU Tillia euchlora,Large,13 in.,Mature,15 ft.,Good,images/140.jpg
+141,Red Maple,41.896854401,-87.945129395,N/A,,,,Acer rubrum,October Glory,Medium,13 in.,Mature,15 ft.,Good,images/141.jpg
+142,Kousa Dogwood,41.896820068,-87.945350647,N/A,,,,Cornus kousa,,Small,4 in.,Mature,10 ft.,Good,images/142.jpg
+143,Witchhazel,41.896762848,-87.945358276,N/A,,,,Hamamelis virginiana,mollis 'Brevipetala',Small,2 in.,Mature,10 ft.,Good,
+144,Lilac,41.896797180,-87.945060730,N/A,,,,Syringa sp,,Medium,4 in.,Mature,10 ft.,Good,
+145,Shingle Oak,41.896743774,-87.944999695,To honor,0,John P. Weber,In ground marker,Quercus imbricaria,,Large,23 in.,Mature,25 ft.,Good,images/145.jpg
+146,Pecan,41.896648407,-87.945075989,To honor,0,Rev. Dr. Robert & Juanita Laaser,In ground marker,Carya illinoinensis,CAIL Carya illinonensis,Large,13 in.,Mature,15 ft.,Good,images/146.jpg
+147,Kousa Dogwood,41.896656036,-87.945289612,N/A,,,,Cornus kousa,,Small,4 in.,Mature,10 ft.,Good,images/147.jpg
+149,Glossy Hawthorn,41.896663666,-87.945655823,N/A,,,,Crataegus nitida,nitida,Medium,10 in.,Mature,10 ft.,Good,
+150,Oak,41.896640778,-87.945854187,To honor,0,Rev. John Koenig & Rev. Wilhelm Baur,In ground marker,Quercus sp,frainetto 'Schmidt',Medium,11 in.,Semi-mature,10 ft.,Good,images/150.jpg
+151,Northern Red Oak,41.896690369,-87.945976257,N/A,,,,Quercus rubra,,Small,2 in.,New planting,1 ft.,Good,
+153,European Beech,41.896659851,-87.946166992,Other,0,How much a heart can hold,In ground marker,Fagus sylvatica,Swat Magret,Medium,10 in.,Semi-mature,15 ft.,Good,images/153.jpg
+154,Northern Red Oak,41.896583557,-87.946212769,N/A,,,,Quercus rubra,,Large,15 in.,Semi-mature,15 ft.,Fair,images/154.jpg
+155,Magnolia,41.896610260,-87.946220398,N/A,,,,Magnolia sp,salicifolia Anise,Medium,6 in.,Mature,20 ft.,Good,
+156,Common Honeylocust,41.896648407,-87.946464539,To honor,0,The Wolff's,In ground marker,Gleditsia triacanthos,,Large,24 in.,Mature,25 ft.,Good,images/156.jpeg
+157,Northern Red Oak,41.896595001,-87.946456909,Memorial,0,Robert Swords,In ground marker,Quercus rubra,,Large,22 in.,Mature,15 ft.,Good,images/157.jpeg
+158,Elm,41.896636963,-87.946647644,To honor,2007,Kenne and Candy Bristol,In ground marker,Ulmus sp,Accolade,Medium,8 in.,Semi-mature,15 ft.,Good,images/158.jpeg
+159,Star Magnolia,41.896717072,-87.946693420,To honor,2009,Dr. Terry Madoch,In ground marker,Magnolia stellata,,Medium,3 in.,Mature,10 ft.,Good,images/159.jpeg
+160,Star Magnolia,41.896717072,-87.946777344,To honor,2009,Dr. George Thoma Jr.,In ground marker,Magnolia stellata,,Medium,5 in.,Mature,10 ft.,Good,images/160.jpeg
+161,European Beech,41.896659851,-87.946838379,Memorial,0,Hubert Frega,In ground marker,Fagus sylvatica,Grandidentata,Medium,8 in.,Semi-mature,15 ft.,Good,images/161.jpeg
+163,Common Sweetgum,41.896610260,-87.947044373,Memorial,1991,Patricia Patterson,In ground marker,Liquidambar styraciflua,,Large,14 in.,Mature,15 ft.,Good,images/163.jpeg
+164,Eastern Redcedar,41.896717072,-87.946990967,N/A,,,,Juniperus virginiana,,Large,8 in.,Mature,6 ft.,Good,
+165,Shingle Oak,41.896633148,-87.946846008,To honor,0,Thomas Price,In ground marker,Quercus imbricaria,,Large,16 in.,Semi-mature,15 ft.,Fair,images/165.jpg
+166,American Elm,41.896652222,-87.947158813,To honor,2000,College Advancement Staff,In ground marker,Ulmus americana,,Large,24 in.,Mature,15 ft.,Good,images/166.jpeg
+167,Eastern Redcedar,41.896713257,-87.947227478,N/A,,,,Juniperus virginiana,,Large,8 in.,Mature,10 ft.,Good,
+169,Common Sweetgum,41.896648407,-87.947402954,To honor,2004,Bryant and Jeanette Cureton,In ground marker,Liquidambar styraciflua,Variegata 'Silver King',Small,1 in.,New planting,1 ft.,Fair,images/169.jpeg
+170,Sycamore Maple,41.896610260,-87.947410583,N/A,,,,Acer pseudoplatanus,pseudosieboldianum,Medium,8 in.,Semi-mature,10 ft.,Good,
+171,Star Magnolia,41.896751404,-87.947448730,N/A,,,,Magnolia stellata,,Small,4 in.,Mature,10 ft.,Good,
+172,Amur Maple,41.896766663,-87.947479248,Memorial,2016,Victor H. Dobrowolski,,Acer ginnala,,Small,4 in.,Semi-mature,6 ft.,Good,images/172.jpg
+173,Hedge Maple,41.896820068,-87.947494507,Memorial,1987,Robert Ryan,In ground marker,Acer campestre,,Medium,12 in.,Mature,15 ft.,Good,images/173.jpeg
+174,Chinese Chestnut,41.896789551,-87.947540283,N/A,,,,Castanea mollissima,,Medium,4 in.,Semi-mature,10 ft.,Fair,
+175,Amur Maple,41.896835327,-87.947525024,N/A,,,,Acer ginnala,Bailey's Compact,Medium,4 in.,Mature,10 ft.,Good,images/175.jpg
+176,Northern Red Oak,41.896697998,-87.947563171,Other,0,Gladys A. and Raymond D. Robinson,In ground marker,Quercus rubra,,Medium,9 in.,Young,10 ft.,Good,images/176.jpg
+177,Star Magnolia,41.896720886,-87.947631836,N/A,,,,Magnolia stellata,,Small,2 in.,Young,1 ft.,Good,images/177.jpg
+179,English Oak,41.896591187,-87.947631836,To honor,0,William Bailey,In ground marker,Quercus robur,,Large,28 in.,Mature,25 ft.,Good,images/179.jpg
+180,Black Maple,41.896602631,-87.947761536,To honor,0,Richard J. Breed M.D.,In ground marker,Acer nigrum,see photo,Large,12 in.,Semi-mature,0 ft.,Good,images/180.jpg
+181,Eastern Redcedar,41.896602631,-87.947898865,N/A,,,,Juniperus virginiana,,Large,14 in.,Mature,10 ft.,Good,images/181.jpg
+182,Norway Maple,41.896514893,-87.947685242,Memorial,1989,Peter and Maude Meyer,In ground marker,Acer platanoides,Emerald Queen,Medium,3 in.,Young,6 ft.,Good,images/182.jpeg
+183,American Elm,41.896717072,-87.948059082,To honor,2007,Alexandra Zakos,In ground marker,Ulmus americana,,Large,35 in.,Mature,25 ft.,Good,images/183.jpg
+184,Black Maple,41.896636963,-87.948173523,N/A,2015,Grace Bade,,Acer nigrum,,Medium,9 in.,Semi-mature,10 ft.,Good,images/184.jpg
+185,Austrian Pine,41.896633148,-87.948226929,N/A,,,,Pinus nigra,,Medium,8 in.,Semi-mature,10 ft.,Good,images/185.jpg
+186,Austrian Pine,41.896617889,-87.948242188,N/A,,,,Pinus nigra,,Medium,17 in.,Semi-mature,10 ft.,Good,
+187,Austrian Pine,41.896617889,-87.948242188,N/A,,,,Pinus nigra,,Medium,21 in.,Semi-mature,10 ft.,Good,
+188,Yellowwood,41.896755219,-87.948257446,N/A,,,,Cladrastis kentukea,,Small,5 in.,Semi-mature,6 ft.,Fair,images/188.jpg
+189,Shantung Maple,41.896793365,-87.948303223,Memorial,2012,Kathy Langstraat,In ground marker,Acer truncatum,,Small,4 in.,Semi-mature,10 ft.,Good,images/189.jpeg
+190,European Beech,41.896793365,-87.948303223,N/A,,,,Fagus sylvatica,Rotundifolia,Medium,5 in.,Semi-mature,10 ft.,Good,images/190.jpg
+191,European Beech,41.896663666,-87.948501587,To honor,2001,Darlene and Jim Keating,In ground marker,Fagus sylvatica,Purple Fountain,Medium,6 in.,Semi-mature,10 ft.,Good,images/191.jpeg
+194,Siberian Elm,41.896701813,-87.948669434,N/A,,,,Ulmus pumila,,Large,29 in.,Mature,15 ft.,Good,images/194.jpg
+195,Siberian Elm,41.896728516,-87.948806763,N/A,,,,Ulmus pumila,,Large,20 in.,Mature,15 ft.,Good,
+196,Colorado Blue Spruce,41.896671295,-87.948852539,N/A,,,,Picea pungens,,Medium,11 in.,Semi-mature,10 ft.,Good,
+197,Colorado Blue Spruce,41.896671295,-87.948822021,N/A,,,,Picea pungens,,Small,2 in.,Young,6 ft.,Good,
+198,Colorado Blue Spruce,41.896640778,-87.948783875,N/A,,,,Picea pungens,,Medium,9 in.,Semi-mature,10 ft.,Good,
+199,Colorado Blue Spruce,41.896667480,-87.948692322,N/A,,,,Picea pungens,,Medium,8 in.,Semi-mature,10 ft.,Good,
+200,Colorado Blue Spruce,41.896644592,-87.948661804,N/A,,,,Picea pungens,,Medium,10 in.,Semi-mature,10 ft.,Good,
+201,Silver Linden,41.896587372,-87.948501587,To honor,2011,Harold E. Pendexter,In ground marker,Tilia tomentosa,,Large,15 in.,Semi-mature,15 ft.,Good,images/201.jpg
+202,Japanese Tree Lilac,41.896564484,-87.948509216,N/A,,,,Syringa reticulata,,Small,2 in.,Semi-mature,6 ft.,Good,
+203,Japanese Tree Lilac,41.896507263,-87.948524475,N/A,,,,Syringa reticulata,,Small,2 in.,Semi-mature,6 ft.,Good,
+204,Silver Linden,41.896476746,-87.948524475,To honor,2011,William J. McCarter,In ground marker,Tilia tomentosa,,Large,17 in.,Semi-mature,15 ft.,Good,images/204.jpg
+206,Sugar Maple,41.896442413,-87.948669434,Memorial,1999,Dr. Charles D. England,In ground marker,Acer saccharum,,Large,19 in.,Mature,15 ft.,Good,images/206.jpg
+208,European Beech,41.896373749,-87.948318481,Memorial,1989,Roy Wiemerslage,In ground marker,Fagus sylvatica,Atropunicea,Large,24 in.,Mature,20 ft.,Good,images/208.jpg
+212,European Beech,41.896041870,-87.948440552,Memorial,1992,Rev. Oscar & Erna Bohnert,In ground marker,Fagus sylvatica,Atropunicea,Large,27 in.,Mature,15 ft.,Good,images/212.jpeg
+214,Turkish Filbert,41.896087646,-87.948547363,N/A,,,,Corylus colurna,avellana,Small,2 in.,Semi-mature,6 ft.,Good,
+215,European Beech,41.896114349,-87.948661804,To honor,0,Ana M. Eng & Joseph D. Cavolick,In ground marker,Fagus sylvatica,Roseomarginata,Small,5 in.,Semi-mature,10 ft.,Good,images/215.jpeg
+216,Common Honeylocust,41.896503448,-87.946548462,N/A,,,,Gleditsia triacanthos,Sky Cole,Medium,7 in.,Semi-mature,15 ft.,Good,images/216.jpg
+217,Eastern Arborvitae,41.896415710,-87.946601868,N/A,,,,Thuja occidentalis,,Small,3 in.,Semi-mature,6 ft.,Good,
+219,Chestnut Oak,41.896488190,-87.946762085,Memorial,1990,Joan Bougher,In ground marker,Quercus prinus,,Large,23 in.,Mature,20 ft.,Good,images/219.jpg
+220,Northern Red Oak,41.896492004,-87.946968079,Memorial,0,Judge George W. Unverzagt,In ground marker,Quercus rubra,,Small,2 in.,Young,6 ft.,Good,images/220.jpg
+221,Eastern Redcedar,41.896469116,-87.947074890,Memorial,2009,Edna Tourangeau,In ground marker,Juniperus virginiana,,Medium,8 in.,Semi-mature,0 ft.,Good,images/221.jpg
+222,Eastern Redcedar,41.896438599,-87.947212219,N/A,,,,Juniperus virginiana,,Medium,8 in.,Semi-mature,6 ft.,Good,
+227,Northern Red Oak,41.896450043,-87.947540283,Memorial,0,Robert A. Pape,In ground marker,Quercus rubra,borealis,Large,19 in.,Semi-mature,20 ft.,Good,images/227.jpeg
+228,Red Maple,41.896511078,-87.947700500,Memorial,0,Bonnie L. Weideman,In ground marker,Acer rubrum,Red Sunset,Small,2 in.,New planting,4 ft.,Good,images/228.jpg
+229,Common Sweetgum,41.896488190,-87.947807312,To honor,2007,Don and Marjorie Sveen,In ground marker,Liquidambar styraciflua,,Large,15 in.,Semi-mature,15 ft.,Good,images/229.jpg
+233,Eastern White Pine,41.896419525,-87.948020935,To honor,2008,Dr. S. Alan Ray,,Pinus strobus,,Large,14 in.,Semi-mature,15 ft.,Good,
+235,Sweetbay Magnolia,41.896380166,-87.948100329,To honor,2009,Hansen Family Legacy,In ground marker,Magnolia virginiana,,Medium,6 in.,Semi-mature,10 ft.,Good,images/235.jpg
+239,Douglas Fir,41.895988464,-87.948089600,N/A,,,,Pseudotsuga menziesii,,Medium,5 in.,Semi-mature,10 ft.,Good,
+240,Fraser Fir,41.895961761,-87.948059082,N/A,,,,Abies fraseri,,Medium,10 in.,Semi-mature,10 ft.,Good,
+241,Castor Aralia,41.896003723,-87.948005676,N/A,,,,Kalopanax pictus,KOPI Kolopanax pictus,Small,3 in.,Young,6 ft.,Good,images/241.jpg
+242,Oriental Spruce,41.895961761,-87.947982788,N/A,,,,Picea orientalis,,Small,3 in.,Young,6 ft.,Good,images/242.jpeg
+243,Five Stamen Tamarisk,41.895942688,-87.948028564,N/A,,,,Tamarix ramosissima,,Small,3 in.,Semi-mature,10 ft.,Good,images/243.jpg
+244,European Beech,41.895938873,-87.947860718,To honor,0,Joel and Nancy Herter,In ground marker,Fagus sylvatica,Roseomarginata,Small,3 in.,Young,6 ft.,Good,images/244.jpg
+245,Callery Pear,41.895938873,-87.947692871,To honor,0,Nancy Breed-Mackin,In ground marker,Pyrus calleryana,Bradford Callery Pear,Large,14 in.,Mature,20 ft.,Good,images/245.jpg
+246,Northern Red Oak,41.895935059,-87.947494507,N/A,0,"Paul, Jillian, and Emily",,Quercus rubra,,Medium,12 in.,Semi-mature,15 ft.,Good,images/246.jpg
+250,Eastern Redcedar,41.895969391,-87.947303772,N/A,,,,Juniperus virginiana,see photo,Medium,9 in.,Semi-mature,10 ft.,Good,
+251,Eastern Redcedar,41.895946503,-87.947151184,N/A,,,,Juniperus virginiana,see photo,Medium,12 in.,Semi-mature,10 ft.,Good,
+252,Bur Oak,41.895938873,-87.947036743,Memorial,0,John J Groch Jr.,In ground marker,Quercus macrocarpa,Swamp Bur Oak,Medium,11 in.,Semi-mature,10 ft.,Good,images/252.jpg
+253,Chestnut Oak,41.895908356,-87.946876526,To honor,0,Ruth Caryl Breed Licht,In ground marker,Quercus prinus,,Medium,20 in.,Semi-mature,15 ft.,Good,images/253.jpg
+254,English Oak,41.895938873,-87.946647644,Memorial,1992,Lillian Olson,In ground marker,Quercus robur,,Medium,12 in.,Semi-mature,15 ft.,Good,images/254.jpg
+255,Eastern Arborvitae,41.896007538,-87.946586609,N/A,,,,Thuja occidentalis,,Small,3 in.,Semi-mature,6 ft.,Good,
+256,Common Honeylocust,41.895946503,-87.946540833,To honor,2012,Arielle Zakos,In ground marker,Gleditsia triacanthos,Skyline,Medium,6 in.,Semi-mature,10 ft.,Good,images/256.jpg
+257,Northern Red Oak,41.895904541,-87.946319580,Memorial,1992,Diane O'Malley,In ground marker,Quercus rubra,,Large,20 in.,Semi-mature,20 ft.,Good,images/257.jpg
+259,Swiss Stone Pine,41.895954132,-87.946029663,N/A,,,,Pinus cembra,,Medium,11 in.,Semi-mature,10 ft.,Good,images/259.jpg
+260,American Hophornbeam,41.895992279,-87.945960999,N/A,,,,Ostrya virginiana,,Medium,8 in.,Semi-mature,10 ft.,Good,images/260.jpg
+261,Littleleaf Linden,41.896018982,-87.945823669,Class tree,1999,49ers 50th Reunion,In ground marker,Tilia cordata,,Large,18 in.,Mature,20 ft.,Good,images/261.jpeg
+262,Tuliptree,41.896118164,-87.945869446,Memorial,0,Herman G. Borne,In ground marker,Liriodendron tulipifera,,Large,14 in.,Semi-mature,15 ft.,Good,images/262.jpeg
+264,Limber Pine,41.896133423,-87.945945740,N/A,2014,Rachel Gibson,,Pinus flexilis,Vanderwolf's Pyramid,Small,5 in.,Young,6 ft.,Good,images/264.jpg
+265,Tuliptree,41.896350861,-87.945877075,Memorial,0,Henry G. Schuessler,In ground marker,Liriodendron tulipifera,,Large,19 in.,Semi-mature,20 ft.,Good,images/265.jpg
+266,Lavalle Hawthorn,41.896316528,-87.945922852,N/A,2015,Marcus Nestor,,Crataegus x lavallei,,Medium,9 in.,Mature,15 ft.,Good,images/266.jpg
+268,American Smoketree,41.896385193,-87.945884705,N/A,,,,Cotinus obovatus,,Small,3 in.,Mature,10 ft.,Good,
+270,Bur Oak,41.895828247,-87.945838928,Retirement,2013,Dr. Frank Mittermeyer,In ground marker,Quercus macrocarpa,,Small,2 in.,Young,6 ft.,Good,images/270.jpg
+271,Ginkgo,41.895694733,-87.945816040,To honor,1992,Kimberly Beisswanger,In ground marker,Ginkgo biloba,,Medium,9 in.,Semi-mature,15 ft.,Good,images/271.jpg
+280,Crabapple,41.895744324,-87.946083069,Class tree,1992,Deicke Center for Nursing Class of 1992,In ground marker,Malus sp,baccata Siberian Crab,Medium,6 in.,Semi-mature,10 ft.,Good,images/280.jpg
+281,Shumard Oak,41.895828247,-87.946075439,To honor,2000,Ragnar Moen,In ground marker,Quercus shumardii,,Large,28 in.,Mature,20 ft.,Good,images/281.jpg
+282,Sugar Maple,41.895832062,-87.946220398,Class tree,1985,1985 Nursing Class,In ground marker,Acer saccharum,,Medium,11 in.,Semi-mature,15 ft.,Good,images/282.jpeg
+285,Elm,41.895709991,-87.946556091,To honor,2008,Class of 2008 & Dr & Mrs. Cureton,In ground marker,Ulmus sp,Accolade,Small,5 in.,Young,10 ft.,Good,images/285.jpg
+286,Red Maple,41.895748138,-87.946685791,Memorial,0,Phyllis and Tom Cooper,In ground marker,Acer rubrum,Red Sunset,Medium,3 in.,Young,10 ft.,Good,images/286.jpeg
+288,Northern Red Oak,41.895856056,-87.946842655,To honor,0,Margaret Breed Senter,In ground marker,Quercus rubra,,Medium,13 in.,Semi-mature,15 ft.,Good,images/288.jpg
+310,Chittamwood,41.895623608,-87.946938053,N/A,,,,Bumelia lanuginosa,Oblongifolia,Medium,5 in.,Semi-mature,10 ft.,Good,images/310.jpg
+324,Star Magnolia,41.895462143,-87.946912974,N/A,,,,Magnolia stellata,pink,Small,1 in.,Semi-mature,6 ft.,Good,images/324.jpg
+325,European Beech,41.895843506,-87.946975708,Memorial,0,William W. Wright,In ground marker,Fagus sylvatica,Roseomarginata,Medium,12 in.,Semi-mature,10 ft.,Good,images/325.jpg
+326,Common Pearlbush,41.895824432,-87.947105408,N/A,,,,Exochorda racemosa,,Small,3 in.,Semi-mature,10 ft.,Good,images/326.jpg
+327,Northern Red Oak,41.895870209,-87.947143555,N/A,,,,Quercus rubra,,Large,18 in.,Semi-mature,20 ft.,Good,images/327.jpg
+328,White Fringetree,41.895881653,-87.947196960,N/A,,,,Chionanthus virginicus,,Small,2 in.,Semi-mature,6 ft.,Good,images/328.jpg
+329,European Beech,41.895793915,-87.947250366,To honor,1999,Ro Kostiwa and Ana M. Eng,In ground marker,Fagus sylvatica,Roseomarginata,Medium,10 in.,Semi-mature,10 ft.,Good,images/329.jpg
+330,Chestnut Oak,41.895866394,-87.947402954,Memorial,0,Ralph J. LaBrack,In ground marker,Quercus prinus,,Large,20 in.,Mature,20 ft.,Good,images/330.jpg
+331,Chinkapin Oak,41.895839691,-87.947509766,To honor,2014,Jean Augensen Forster,In ground marker,Quercus muehlenbergii,,Medium,9 in.,Semi-mature,10 ft.,Good,images/331.jpg
+332,Canadian Hemlock,41.895732880,-87.947547913,N/A,,,,Tsuga canadensis,,Small,2 in.,Semi-mature,6 ft.,Good,
+333,Canadian Hemlock,41.895687103,-87.947479248,N/A,,,,Tsuga canadensis,,Small,2 in.,Semi-mature,6 ft.,Good,
+334,Hawthorn,41.895629883,-87.947540283,N/A,,,,Crataegus sp,persimilis Prunifolia,Medium,4 in.,Mature,10 ft.,Good,images/334.jpg
+335,Eastern White Pine,41.895618439,-87.947578430,N/A,,,,Pinus strobus,,Small,2 in.,Young,6 ft.,Good,
+336,Canadian Hemlock,41.895618439,-87.947578430,N/A,,,,Tsuga canadensis,,Small,1 in.,Semi-mature,6 ft.,Good,
+338,Sugar Maple,41.895744324,-87.947593689,Memorial,2011,Colin Pascoe,In ground marker,Acer saccharum,,Large,17 in.,Semi-mature,15 ft.,Good,images/338.jpg
+339,American Elm,41.895744324,-87.947593689,Memorial,2003,Margaret Ruth Lambrecht,In ground marker,Ulmus americana,,Large,32 in.,Mature,25 ft.,Good,images/339.jpg
+340,Northern Pin Oak,41.895759583,-87.947807312,Memorial,1997,Ryan Schrader and Jon Partipilo,In ground marker,Quercus ellipsoidalis,,Medium,12 in.,Semi-mature,15 ft.,Good,images/340.jpg
+341,Northern Red Oak,41.895889282,-87.947769165,Memorial,0,Carol Sutter Eads,In ground marker,Quercus rubra,,Small,1 in.,New planting,6 ft.,Good,images/341.jpg
+342,Northern Red Oak,41.895904541,-87.947952271,To honor,1992,Fellowship of Cavaliers,In ground marker,Quercus rubra,,Large,15 in.,Semi-mature,20 ft.,Good,images/342.jpg
+343,White Oak,41.895912170,-87.948097229,Memorial,0,Bessie L. Ricci,In ground marker,Quercus alba,,Large,12 in.,Semi-mature,15 ft.,Good,images/343.jpg
+345,Bur Oak,41.895839691,-87.948699951,To honor,2002,Proud Eagle,In ground marker,Quercus macrocarpa,,,12 in.,Semi-mature,20 ft.,Good,images/345.jpg
+346,Bur Oak,41.895881653,-87.949043274,N/A,,,,Quercus macrocarpa,,Large,19 in.,Semi-mature,20 ft.,Good,
+349,Norway Spruce,41.895835876,-87.949188232,N/A,,,,Picea abies,PIAB Picea abies,Large,12 in.,Semi-mature,10 ft.,Good,
+350,Norway Spruce,41.895835876,-87.949150085,N/A,,,,Picea abies,PIAB Picea abies,Large,12 in.,Semi-mature,10 ft.,Good,
+351,Swamp White Oak,41.895755768,-87.949211121,N/A,,,,Quercus bicolor,,Large,23 in.,Semi-mature,10 ft.,Good,images/351.jpg
+352,Swamp White Oak,41.895664215,-87.949211121,N/A,,,,Quercus bicolor,,Large,18 in.,Semi-mature,10 ft.,Good,
+353,Swamp White Oak,41.895580292,-87.949226379,N/A,,,,Quercus bicolor,,Large,18 in.,Semi-mature,10 ft.,Good,
+354,Swamp White Oak,41.895599365,-87.949172974,N/A,,,,Quercus bicolor,,Large,18 in.,Semi-mature,10 ft.,Good,
+355,Hawthorn,41.895706177,-87.949165344,N/A,,,,Crataegus sp,intricata,Medium,4 in.,Semi-mature,10 ft.,Fair,
+356,Hawthorn,41.895553589,-87.949066162,N/A,,,,Crataegus sp,intricata,Medium,4 in.,Semi-mature,10 ft.,Fair,
+357,Swamp White Oak,41.895664215,-87.949081421,N/A,,,,Quercus bicolor,,Large,15 in.,Semi-mature,15 ft.,Good,
+358,Swamp White Oak,41.895404816,-87.948966980,N/A,,,,Quercus bicolor,,Large,19 in.,Semi-mature,15 ft.,Good,images/358.jpg
+361,Littleleaf Linden,41.895442963,-87.948928833,N/A,,,,Tilia cordata,,Large,12 in.,Semi-mature,15 ft.,Good,images/361.jpg
+362,Sugar Maple,41.895641327,-87.948745728,N/A,,,,Acer saccharum,Green Mountain,Large,14 in.,Semi-mature,15 ft.,Good,images/362.jpg
+363,Swamp White Oak,41.895778656,-87.948722839,N/A,,,,Quercus bicolor,,Large,22 in.,Semi-mature,15 ft.,Good,images/363.jpg
+364,Hawthorn,41.895862579,-87.948577881,N/A,,,,Crataegus sp,,Medium,6 in.,Semi-mature,10 ft.,Fair,
+366,Kousa Dogwood,41.895824432,-87.948402405,N/A,,,,Cornus kousa,Wolf Eyes,Small,1 in.,Young,6 ft.,Good,
+367,Hawthorn,41.895816803,-87.948341370,N/A,,,,Crataegus sp,crusgalli,Medium,3 in.,Semi-mature,10 ft.,Good,images/367.jpg
+368,Hawthorn,41.895816803,-87.948234558,N/A,,,,Crataegus sp,crusgalli,Medium,3 in.,Semi-mature,10 ft.,Good,images/368.jpg
+369,Cornelian Cherry Dogwood,41.895797729,-87.948051453,N/A,,,,Cornus mas,,Medium,4 in.,Semi-mature,10 ft.,Good,
+371,Eastern Redcedar,41.895687103,-87.947860718,N/A,,,,Juniperus virginiana,,Medium,10 in.,Semi-mature,10 ft.,Good,
+372,Eastern Redcedar,41.895690918,-87.947967529,N/A,,,,Juniperus virginiana,,Medium,13 in.,Semi-mature,10 ft.,Good,
+373,Crabapple,41.895690918,-87.947967529,N/A,,,,Malus sp,Beverly,Medium,14 in.,Semi-mature,10 ft.,Good,images/373.jpg
+374,Katsuratree,41.895599365,-87.947906494,N/A,,,,Cercidiphyllum japonicum,red fox,Small,1 in.,New planting,6 ft.,Good,images/374.jpg
+375,Amur Corktree,41.895652771,-87.948135376,N/A,,,,Phellodendron amurense,,Large,14 in.,Semi-mature,10 ft.,Good,
+376,Red Maple,41.895584106,-87.948143005,Memorial,0,Charles W. Gilbert,In ground marker,Acer rubrum,,Large,19 in.,Semi-mature,15 ft.,Good,images/376.jpg
+377,Douglas Fir,41.895561218,-87.948295593,N/A,,,,Pseudotsuga menziesii,weeping,Medium,3 in.,Semi-mature,10 ft.,Good,
+378,Common Baldcypress,41.895633698,-87.948463440,N/A,,,,Taxodium distichum,,Large,23 in.,Semi-mature,10 ft.,Good,images/378.jpg
+381,Red Maple,41.896327972,-87.948928833,N/A,,,,Acer rubrum,,Small,2 in.,Young,6 ft.,Good,
+382,Northern Red Oak,41.896236420,-87.948936462,N/A,,,,Quercus rubra,,Small,2 in.,Young,6 ft.,Good,
+383,Northern Red Oak,41.896194458,-87.948905945,N/A,,,,Quercus rubra,,Small,2 in.,Young,6 ft.,Good,
+384,Red Maple,41.896133423,-87.948867798,N/A,,,,Acer rubrum,,Small,2 in.,Young,6 ft.,Good,images/384.jpg
+385,American Hornbeam,41.896114349,-87.949012756,N/A,,,,Carpinus caroliniana,,Small,2 in.,Young,6 ft.,Good,
+386,Kobus Magnolia,41.895599365,-87.947303772,N/A,,,,Magnolia kobus,,Large,8 in.,Semi-mature,10 ft.,Good,images/386.jpg
+388,Kentucky Coffeetree,41.895336151,-87.946708679,N/A,,,,Gymnocladus dioicus,,Medium,12 in.,Semi-mature,15 ft.,Good,images/388.jpg
+389,Norway Maple,41.895328522,-87.946548462,N/A,,,,Acer platanoides,ACPL Acer platanoides,Medium,9 in.,Semi-mature,10 ft.,Good,
+390,Hardy Rubber Tree,41.895339966,-87.946418762,N/A,,,,Eucommia ulmoides,,Medium,10 in.,Semi-mature,10 ft.,Good,images/390.jpg
+391,Chestnut Oak,41.895332336,-87.946296692,N/A,,,,Quercus prinus,,Medium,12 in.,Semi-mature,10 ft.,Good,images/391.jpg
+392,Royal Paulownia Princess Tree,41.895336151,-87.946174622,N/A,,,,Paulownia tomentosa,,Medium,11 in.,Semi-mature,10 ft.,Good,images/392.jpg
+394,Silver Linden,41.895313263,-87.945823669,N/A,,,,Tilia tomentosa,,Medium,12 in.,Semi-mature,15 ft.,Good,images/394.jpg
+395,Loebner Magnolia,41.895263672,-87.945793152,N/A,,,,Magnolia x loebneri,Merrill,Small,1 in.,Semi-mature,6 ft.,Good,
+396,Loebner Magnolia,41.895206451,-87.945808411,N/A,,,,Magnolia x loebneri,Merrill,Small,1 in.,Semi-mature,6 ft.,Good,
+397,Loebner Magnolia,41.895141602,-87.945800781,N/A,,,,Magnolia x loebneri,Merrill,Small,2 in.,Semi-mature,6 ft.,Good,
+398,Loebner Magnolia,41.895076752,-87.945793152,N/A,,,,Magnolia x loebneri,Merrill,Small,1 in.,Semi-mature,6 ft.,Good,
+399,Loebner Magnolia,41.895000458,-87.945793152,N/A,,,,Magnolia x loebneri,Merrill,Small,1 in.,Semi-mature,6 ft.,Good,
+400,Loebner Magnolia,41.894939423,-87.945800781,N/A,,,,Magnolia x loebneri,Ballerina,Small,1 in.,Semi-mature,6 ft.,Good,images/400.jpg
+401,European Beech,41.896976471,-87.945053101,Memorial,2000,Elizabeth H. Licht,In ground marker,Fagus sylvatica,Atropunicea,Large,17 in.,Mature,20 ft.,Good,images/401.jpg
+402,Bur Oak,41.897163391,-87.945037842,N/A,,,,Quercus macrocarpa,,Large,29 in.,Mature,25 ft.,Fair,images/402.jpg
+403,Northern Red Oak,41.897262573,-87.945045471,Memorial,0,Rev. Edward K. Bergstraesser,In ground marker,Quercus rubra,,Small,2 in.,Young,6 ft.,Good,images/403.jpg
+404,European Beech,41.897350311,-87.945075989,To honor,2000,John and Priscilla Licht,In ground marker,Fagus sylvatica,Atropunicea,Large,20 in.,Mature,20 ft.,Good,images/404.jpg
+405,European Beech,41.897460938,-87.945045471,N/A,,,,Fagus sylvatica,FASY Fagus sylvatica,Medium,14 in.,Young,15 ft.,Good,
+407,Ponderosa Pine,41.897468567,-87.945137024,N/A,,,,Pinus ponderosa,,Large,13 in.,Mature,10 ft.,Good,images/407.jpg
+408,Callery Pear,41.897571564,-87.945121765,N/A,,,,Pyrus calleryana,PYCABR Pyrus calleryana,Medium,14 in.,Mature,15 ft.,Good,images/408.jpg
+409,Katsuratree,41.897491455,-87.945205688,N/A,,,,Cercidiphyllum japonicum,,Small,2 in.,Young,6 ft.,Good,images/409.jpg
+411,Amur Maple,41.897514343,-87.945228577,N/A,,,,Acer ginnala,,Medium,3 in.,Semi-mature,6 ft.,Good,
+413,Northern Red Oak,41.897769928,-87.945014954,To honor,2017,Dr. Jon L. Johnson,,Quercus rubra,,Medium,9 in.,Young,10 ft.,Good,images/413.jpg
+416,Northern Red Oak,41.897903442,-87.945152283,To honor,2012,Dr. Walter E. Burdick,In ground marker,Quercus rubra,,Large,13 in.,Semi-mature,15 ft.,Good,images/416.jpg
+417,Cornelian Cherry Dogwood,41.897834778,-87.945175171,N/A,,,,Cornus mas,,Small,4 in.,Mature,10 ft.,Good,
+418,Crabapple,41.897911072,-87.945236206,N/A,,,,Malus sp,,Medium,6 in.,Mature,10 ft.,Good,
+419,Norway Maple,41.897830963,-87.945335388,N/A,,,,Acer platanoides,Columnare,Large,14 in.,Mature,15 ft.,Good,images/419.jpg
+420,Crabapple,41.897823334,-87.945396423,N/A,,,,Malus sp,,Medium,7 in.,Mature,15 ft.,Good,
+421,Crabapple,41.897884369,-87.945510864,N/A,,,,Malus sp,,Medium,4 in.,Mature,6 ft.,Good,
+422,River Birch,41.897834778,-87.945632935,N/A,,,,Betula nigra,,Medium,7 in.,Mature,15 ft.,Good,images/422.jpg
+423,White Ash,41.897899628,-87.945686340,N/A,,,,Fraxinus americana,,Medium,4 in.,Young,10 ft.,Good,images/423.jpg
+424,European Beech,41.897800446,-87.945724487,N/A,,,,Fagus sylvatica,FASY Fagus sylvatica,Medium,12 in.,Young,6 ft.,Good,
+425,Callery Pear,41.897834778,-87.945762634,N/A,,,,Pyrus calleryana,PYCABR Pyrus calleryana,Medium,6 in.,Semi-mature,10 ft.,Good,
+426,Callery Pear,41.897750854,-87.945755005,N/A,,,,Pyrus calleryana,Chanticleer,Small,2 in.,Young,4 ft.,Good,images/426.jpg
+427,Red Maple,41.897834778,-87.945877075,Memorial,0,Conrad & Violet Gasteier,In ground marker,Acer rubrum,,Small,3 in.,Young,6 ft.,Good,images/427.jpg
+428,Northern Red Oak,41.897586823,-87.945854187,To honor,0,Gladys A. & Raymond D. Robinson,In ground marker,Quercus rubra,,Small,5 in.,Young,6 ft.,Good,images/428.jpg
+429,White Ash,41.897499084,-87.945716858,Memorial,2008,Rebecca Jane Swarr,In ground marker,Fraxinus americana,,Small,4 in.,Young,6 ft.,Good,images/429.jpg
+430,Northern Red Oak,41.897544861,-87.945625305,Memorial,2005,Dr. Karl A. Robert,In ground marker,Quercus rubra,,Large,11 in.,Semi-mature,20 ft.,Good,images/430.jpg
+431,Yellowwood,41.897502899,-87.945549011,N/A,,,,Cladrastis kentukea,,Medium,10 in.,Semi-mature,6 ft.,Fair,images/431.jpg
+432,Douglas Fir,41.897834778,-87.945472717,N/A,,,,Pseudotsuga menziesii,,Medium,9 in.,Semi-mature,6 ft.,Fair,
+433,Amur Maple,41.897575378,-87.945442200,N/A,,,,Acer ginnala,,,4 in.,Mature,10 ft.,Good,images/433.jpg
+434,European Beech,41.897499084,-87.945404053,N/A,,,,Fagus sylvatica,FASY Fagus sylvatica,Large,18 in.,Mature,20 ft.,Good,images/434.jpg
+435,Crabapple,41.897457123,-87.945640564,N/A,,,,Malus sp,Prairiefire,Small,3 in.,Semi-mature,6 ft.,Good,images/435.jpg
+436,Crabapple,41.897449493,-87.945671082,N/A,,,,Malus sp,Prairiefire,Small,4 in.,Semi-mature,6 ft.,Good,images/436.jpg
+437,Crabapple,41.897659302,-87.945671082,N/A,,,,Malus sp,Prairiefire,Small,4 in.,Semi-mature,6 ft.,Good,
+438,Colorado Blue Spruce,41.897384644,-87.945724487,N/A,,,,Picea pungens,,Small,4 in.,Young,6 ft.,Good,
+439,Colorado Blue Spruce,41.897186279,-87.945693970,N/A,,,,Picea pungens,,Small,4 in.,Young,6 ft.,Good,
+440,Crabapple,41.897151947,-87.945678711,N/A,,,,Malus sp,Prairiefire,Small,4 in.,Young,10 ft.,Good,
+441,Crabapple,41.897125244,-87.945678711,N/A,,,,Malus sp,Prairiefire,Small,3 in.,Young,6 ft.,Good,images/441.jpg
+442,Crabapple,41.897117615,-87.945678711,N/A,,,,Malus sp,Prairiefire,Small,2 in.,Young,6 ft.,Good,
+443,Colorado Blue Spruce,41.897094727,-87.945686340,N/A,,,,Picea pungens,,Medium,6 in.,Young,6 ft.,Good,
+444,Colorado Blue Spruce,41.897079468,-87.945693970,N/A,,,,Picea pungens,,Medium,6 in.,Young,6 ft.,Good,
+445,Colorado Blue Spruce,41.897064209,-87.945701599,N/A,,,,Picea pungens,Shiner Blue,Medium,6 in.,Young,6 ft.,Good,images/445.jpg
+446,Northern Red Oak,41.897064209,-87.945739746,Memorial,1996,Carol Jean (Jonas) Barry,In ground marker,Quercus rubra,,Small,1 in.,Young,6 ft.,Good,images/446.jpg
+447,Shingle Oak,41.896831512,-87.945648193,N/A,,,,Quercus imbricaria,,Large,18 in.,Mature,20 ft.,Good,
+448,Northern Red Oak,41.897010803,-87.945838928,To honor,0,Gladys A. & Raymond D. Robinson,In ground marker,Quercus rubra,,Small,5 in.,Young,6 ft.,Good,images/448.jpg
+449,Common Honeylocust,41.897197723,-87.945960999,Class tree,2002,Class of 2002,In ground marker,Gleditsia triacanthos,Shademaster,Medium,6 in.,Young,10 ft.,Good,images/449.jpg
+450,Common Honeylocust,41.897251129,-87.945877075,Class tree,,,In ground marker,Gleditsia triacanthos,Shademaster,Medium,6 in.,Young,10 ft.,Good,
+451,Common Honeylocust,41.897331238,-87.945869446,Class tree,2003,Class of 1953,In ground marker,Gleditsia triacanthos,Shademaster,Medium,4 in.,Young,10 ft.,Good,images/451.jpg
+452,Common Honeylocust,41.897388458,-87.945953369,Class tree,2004,Class of 1954,In ground marker,Gleditsia triacanthos,Shademaster,Medium,6 in.,Young,10 ft.,Fair,images/452.jpg
+453,Common Honeylocust,41.897338867,-87.946044922,N/A,,,,Gleditsia triacanthos,Shademaster,Medium,6 in.,Young,10 ft.,Good,images/453.jpg
+454,Common Honeylocust,41.897254944,-87.946075439,Class tree,2002,Class of 1952,In ground marker,Gleditsia triacanthos,Shademaster,Medium,6 in.,Young,10 ft.,Good,images/454.jpg
+455,Callery Pear,41.897033691,-87.946220398,N/A,,,,Pyrus calleryana,PYCABR Pyrus calleryana,Medium,6 in.,Young,6 ft.,Good,images/455.jpg
+456,Northern Red Oak,41.897018433,-87.946083069,To honor,0,Gladys A. & Raymond D. Robinson,In ground marker,Quercus rubra,,Small,5 in.,Young,6 ft.,Fair,images/456.jpg
+457,Northern Red Oak,41.897586823,-87.946067810,Class tree,0,Gladys A. and Raymond D. Robinson,In ground marker,Quercus rubra,,Small,5 in.,Young,6 ft.,Good,images/457.jpg
+458,Red Maple,41.897830963,-87.946037292,To honor,2013,Dr. Wally Lagerwey,In ground marker,Acer rubrum,Morgan,Small,7 in.,Young,10 ft.,Good,images/458.jpg
+459,White Ash,41.897869110,-87.946189880,N/A,,,,Fraxinus americana,Autumn Purple,Small,4 in.,Young,6 ft.,Good,images/459.jpg
+460,Eastern Redbud,41.897838593,-87.946250916,To honor,2007,Elizabeth D. Kuebler,In ground marker,Cercis canadensis,CECA Cercis canadensis,Small,3 in.,Semi-mature,6 ft.,Good,images/460.jpg
+461,Eastern Redbud,41.897888184,-87.946594238,To honor,2007,Dr. John E. Bohnert,In ground marker,Cercis canadensis,CECA Cercis canadensis,Small,3 in.,Semi-mature,6 ft.,Good,images/461.jpg
+462,Sugar Maple,41.897861481,-87.946800232,To honor,2012,Dr. Marjorie K. Goodban,In ground marker,Acer saccharum,,Medium,12 in.,Mature,15 ft.,Fair,images/462.jpg
+463,Yellow Buckeye,41.896884918,-87.946121216,N/A,,,,Aesculus octandra,yellow buckeye,Large,16 in.,Mature,20 ft.,Good,images/463.jpg
+464,Yellow Buckeye,41.896903992,-87.946449280,N/A,,,,Aesculus octandra,yellow buckeye,Large,17 in.,Mature,20 ft.,Good,images/464.jpg
+466,Hedge Maple,41.896850586,-87.946784973,To honor,1990,Development and Public Relations Staff,In ground marker,Acer campestre,,Medium,12 in.,Mature,15 ft.,Good,images/466.jpg
+468,Sweetbay Magnolia,41.896930695,-87.947151184,N/A,,,,Magnolia virginiana,,Small,3 in.,Young,6 ft.,Good,images/468.jpg
+469,Hackberry,41.896903992,-87.947479248,N/A,,,,Celtis occidentalis,,Medium,10 in.,Semi-mature,15 ft.,Good,images/469.jpg
+470,Kentucky Coffeetree,41.895793915,-87.949577332,N/A,,,,Gymnocladus dioicus,,Small,2 in.,Young,6 ft.,Good,images/470.jpg
+471,Red Maple,41.895645142,-87.949577332,N/A,,,,Acer rubrum,,Small,3 in.,Young,6 ft.,Good,
+472,Hackberry,41.895549774,-87.949569702,N/A,,,,Celtis occidentalis,,Small,2 in.,Young,6 ft.,Good,
+473,Kentucky Coffeetree,41.895473480,-87.949577332,N/A,,,,Gymnocladus dioicus,,Small,2 in.,Young,6 ft.,Good,
+474,Elm,41.895488739,-87.949844360,N/A,,,,Ulmus sp,Accolade,Small,4 in.,Young,6 ft.,Good,
+475,Elm,41.895549774,-87.949798584,N/A,,,,Ulmus sp,Accolade,Small,4 in.,Young,6 ft.,Good,
+476,Elm,41.895668030,-87.949836731,N/A,,,,Ulmus sp,Accolade,Small,4 in.,Young,6 ft.,Good,
+477,Elm,41.895748138,-87.949829102,N/A,,,,Ulmus sp,Accolade,Small,4 in.,Young,6 ft.,Good,
+478,Northern Red Oak,41.895931244,-87.949829102,N/A,,,,Quercus rubra,,Small,2 in.,Young,1 ft.,Poor,
+479,Northern Red Oak,41.896087646,-87.949829102,N/A,,,,Quercus rubra,,Small,2 in.,Young,6 ft.,Fair,
+480,Red Maple,41.896179199,-87.949813843,N/A,,,,Acer rubrum,,Small,2 in.,Young,6 ft.,Good,
+481,Bur Oak,41.896232605,-87.949813843,N/A,,,,Quercus macrocarpa,,Small,2 in.,Young,6 ft.,Good,
+484,Bur Oak,41.896274567,-87.949768066,N/A,,,,Quercus macrocarpa,,Small,2 in.,Young,6 ft.,Good,
+485,Red Maple,41.896358490,-87.949844360,N/A,,,,Acer rubrum,,Small,2 in.,Young,6 ft.,Good,
+487,Northern Red Oak,41.896526337,-87.949813843,N/A,,,,Quercus rubra,,Small,2 in.,Young,6 ft.,Good,
+488,Bur Oak,41.896553040,-87.949600220,N/A,,,,Quercus macrocarpa,,Small,2 in.,Young,6 ft.,Good,
+489,Northern Red Oak,41.896331787,-87.949508667,N/A,,,,Quercus rubra,,Small,2 in.,Young,6 ft.,Good,
+490,Tuliptree,41.896358490,-87.949569702,N/A,,,,Liriodendron tulipifera,,Small,2 in.,Young,6 ft.,Good,
+491,Tuliptree,41.896316528,-87.949569702,N/A,,,,Liriodendron tulipifera,,Small,2 in.,Young,6 ft.,Good,
+492,Tuliptree,41.896221161,-87.949539185,N/A,,,,Liriodendron tulipifera,,Small,2 in.,Young,6 ft.,Good,
+493,Tuliptree,41.896186829,-87.949584961,N/A,,,,Liriodendron tulipifera,,Small,2 in.,Young,6 ft.,Good,
+494,Tuliptree,41.896186829,-87.949523926,N/A,,,,Liriodendron tulipifera,,Small,2 in.,Young,6 ft.,Good,
+495,Northern Red Oak,41.895912170,-87.949348450,N/A,,,,Quercus rubra,,Small,2 in.,Young,6 ft.,Good,
+496,Tuliptree,41.895889282,-87.949302673,N/A,,,,Liriodendron tulipifera,,Small,2 in.,Young,6 ft.,Good,
+498,American Hornbeam,41.895935059,-87.949005127,N/A,,,,Carpinus caroliniana,,Small,1 in.,Young,6 ft.,Fair,
+499,American Hornbeam,41.895950317,-87.948944092,N/A,,,,Carpinus caroliniana,,Small,1 in.,Young,6 ft.,Good,images/499.jpg
+500,American Hornbeam,41.896099091,-87.948959351,N/A,,,,Carpinus caroliniana,,Small,1 in.,Young,6 ft.,Fair,
+501,Silver Maple,41.896945953,-87.948951721,N/A,,,,Acer saccharinum,,Large,36 in.,Over-mature,20 ft.,Fair,
+503,Southwestern White Pine,41.897163391,-87.948860168,N/A,,,,Pinus strobiformis,,Large,18 in.,Mature,15 ft.,Good,
+505,Bur Oak,41.897304535,-87.948822021,N/A,,,,Quercus macrocarpa,,Medium,6 in.,Young,10 ft.,Good,
+506,Butternut,41.897380829,-87.948837280,N/A,,,,Juglans cinerea,JUCI Juglans cinera,Medium,7 in.,Semi-mature,10 ft.,Good,
+507,Persian Walnut,41.897514343,-87.948860168,N/A,,,,Juglans regia,JURE Juglans regina carpathian,Large,16 in.,Mature,15 ft.,Good,
+508,American Elm,41.897663116,-87.948829651,N/A,,,,Ulmus americana,,Large,44 in.,Over-mature,30 ft.,Good,images/508.jpg
+509,Panicled Goldenraintree,41.897777557,-87.948814392,N/A,,,,Koelreuteria paniculata,,Medium,10 in.,Mature,10 ft.,Good,images/509.jpg
+510,Bur Oak,41.897769928,-87.948707581,Memorial,0,Milton B. Stutzman,In ground marker,Quercus macrocarpa,,Medium,10 in.,Young,10 ft.,Good,images/510.jpg
+512,Austrian Pine,41.898006439,-87.948799133,Memorial,2006,Dr. Ronald G. Goetz,Stone,Pinus nigra,,Large,12 in.,Mature,10 ft.,Good,images/512.jpg
+513,Austrian Pine,41.897949219,-87.948722839,N/A,,,,Pinus nigra,,Large,13 in.,Mature,10 ft.,Good,images/513.jpg
+514,American Hophornbeam,41.897998810,-87.948471069,N/A,,,,Ostrya virginiana,,Medium,4 in.,Young,10 ft.,Good,
+515,American Hornbeam,41.897991180,-87.948348999,Memorial,2005,Cameron Lilly Shish,In ground marker,Carpinus caroliniana,,Small,4 in.,Young,15 ft.,Good,images/515.jpg
+516,Colorado Blue Spruce,41.898017883,-87.947814941,N/A,,,,Picea pungens,,Large,16 in.,Mature,10 ft.,Fair,
+517,Norway Maple,41.898048401,-87.947799683,N/A,,,,Acer platanoides,ACPL Acer platanoides,Large,14 in.,Mature,15 ft.,Good,
+518,Norway Maple,41.898036957,-87.947677612,N/A,,,,Acer platanoides,ACPL Acer platanoides,Large,18 in.,Mature,15 ft.,Fair,
+519,Bur Oak,41.898025513,-87.947502136,N/A,,,,Quercus macrocarpa,,Medium,5 in.,Young,6 ft.,Good,
+520,White Oak,41.898033142,-87.947029114,N/A,,,,Quercus alba,check,Small,8 in.,Young,10 ft.,Good,images/520.jpg
+521,Japanese Flowering Crabapple,41.898048401,-87.946792603,N/A,,,,Malus floribunda,Red Jewel,Medium,4 in.,Young,4 ft.,Good,
+522,Littleleaf Linden,41.898078918,-87.946289063,N/A,,,,Tilia cordata,,Large,14 in.,Mature,15 ft.,Good,
+523,Tuliptree,41.898071289,-87.946098328,N/A,,,,Liriodendron tulipifera,,Medium,3 in.,Young,8 ft.,Good,
+524,American Elm,41.898086548,-87.945861816,N/A,,,,Ulmus americana,,Large,34 in.,Mature,25 ft.,Good,
+525,Littleleaf Linden,41.898242950,-87.945869446,N/A,,,,Tilia cordata,,Medium,15 in.,Mature,15 ft.,Good,
+527,Littleleaf Linden,41.898330688,-87.945861816,N/A,,,,Tilia cordata,,Medium,14 in.,Mature,15 ft.,Good,
+530,Littleleaf Linden,41.898708344,-87.945907593,N/A,,,,Tilia cordata,,Medium,14 in.,Mature,15 ft.,Good,
+532,Japanese Flowering Crabapple,41.898715973,-87.946136475,N/A,,,,Malus floribunda,,Small,5 in.,Mature,10 ft.,Good,
+533,Panicled Goldenraintree,41.898670197,-87.946296692,N/A,,,,Koelreuteria paniculata,,Medium,3 in.,New planting,8 ft.,Good,
+534,Eastern White Pine,41.898674011,-87.946395874,N/A,,,,Pinus strobus,,Medium,9 in.,Semi-mature,10 ft.,Fair,
+535,Norway Spruce,41.898685455,-87.946578979,N/A,,,,Picea abies,PIAB Picea abies check,Large,12 in.,Mature,6 ft.,Good,
+536,Alaska Yellow Cedar,41.898681641,-87.946678162,N/A,,,,Xanthocyparis nootkatensis,Glauca Pendula,Small,,Young,0 ft.,Good,images/536.jpg
+537,Ginkgo,41.898662567,-87.946800232,N/A,,,,Ginkgo biloba,,Medium,4 in.,Young,10 ft.,Good,
+539,Colorado Blue Spruce,41.898651123,-87.947082520,N/A,,,,Picea pungens,,Large,16 in.,Mature,15 ft.,Good,
+540,Japanese Flowering Crabapple,41.898647308,-87.947242737,N/A,,,,Malus floribunda,apple apollo moon,Small,4 in.,Semi-mature,10 ft.,Good,
+541,Bur Oak,41.898624420,-87.947402954,N/A,,,,Quercus macrocarpa,,Small,4 in.,Young,8 ft.,Good,
+542,White Oak,41.898616791,-87.947547913,N/A,,,,Quercus alba,check,Small,4 in.,Young,6 ft.,Good,images/542.jpg
+543,Ohio Buckeye,41.898601532,-87.947845459,N/A,,,,Aesculus glabra,,Large,20 in.,Mature,15 ft.,Fair,
+544,Fiveleaf Aralia,41.898605347,-87.947967529,N/A,,,,Eleutherococcus sieboldianus,,Small,1 in.,Young,1 ft.,Good,images/544.jpg
+545,Orixa,41.898582458,-87.948097229,N/A,,,,Orixa japonica,,Small,1 in.,Young,1 ft.,Fair,images/545.jpg
+547,Common Honeylocust,41.898678039,-87.945825339,N/A,,,,Gleditsia triacanthos,,Large,28 in.,Mature,25 ft.,Good,
+548,Yew,41.898418427,-87.945693970,N/A,,,,Taxus sp,,Small,12 in.,Mature,10 ft.,Good,
+549,Yew,41.898422241,-87.945701599,N/A,,,,Taxus sp,,Small,12 in.,Mature,10 ft.,Good,
+550,Yew,41.898479462,-87.945671082,N/A,,,,Taxus sp,,Small,12 in.,Mature,10 ft.,Good,
+551,Colorado Blue Spruce,41.898525238,-87.945610046,N/A,,,,Picea pungens,,Large,20 in.,Mature,10 ft.,Fair,
+553,Colorado Blue Spruce,41.898712158,-87.945625305,N/A,,,,Picea pungens,,Large,9 in.,Mature,10 ft.,Good,
+554,Colorado Blue Spruce,41.898700714,-87.945404053,N/A,,,,Picea pungens,,Large,12 in.,Mature,10 ft.,Good,
+555,Lilac,41.898574829,-87.945381165,N/A,,,,Syringa sp,,Small,1 in.,Mature,10 ft.,Fair,images/555.jpg
+556,Waferash,41.898567200,-87.945182800,N/A,,,,Ptelea trifoliata,PTTR Ptlelea trifoliata,Small,4 in.,Semi-mature,10 ft.,Good,
+558,Spirea,41.898708344,-87.945007324,N/A,,,,Spiraea sp,,Small,1 in.,Mature,6 ft.,Good,images/558.jpg
+559,Lilac,41.898639679,-87.944969177,N/A,,,,Syringa sp,vulgaris,Small,1 in.,Mature,10 ft.,Fair,images/559.jpg
+561,White Spruce,41.898483276,-87.944999695,N/A,,,,Picea glauca,,Large,12 in.,Mature,10 ft.,Good,
+562,Lilac,41.898479462,-87.945037842,N/A,,,,Syringa sp,,Small,2 in.,Mature,6 ft.,Fair,
+563,Japanese White Pine,41.898468018,-87.945075989,N/A,,,,Pinus parviflora,,Small,3 in.,Young,6 ft.,Fair,
+564,Scotch Pine,41.898468018,-87.945137024,N/A,,,,Pinus sylvestris,two needle short,Small,4 in.,Semi-mature,10 ft.,Good,images/564.jpg
+565,Bristly Locust,41.898487091,-87.945167542,N/A,,,,Robinia hispida,,Small,1 in.,Young,6 ft.,Fair,
+566,Beauty Bush,41.898468018,-87.945205688,N/A,,,,Kolkwitzia amabilis,,Small,1 in.,Mature,6 ft.,Fair,
+567,Osage Orange,41.898513794,-87.945205688,N/A,,,,Maclura pomifera,,Medium,4 in.,Semi-mature,6 ft.,Good,images/567.jpg
+568,American Hornbeam,41.898487091,-87.945327759,N/A,,,,Carpinus caroliniana,,Medium,3 in.,Semi-mature,6 ft.,Good,
+570,Saucer Magnolia,41.898258209,-87.944999695,N/A,,,,Magnolia x soulangeana,,Small,3 in.,Semi-mature,0 ft.,Good,
+571,Norway Spruce,41.898269653,-87.945007324,N/A,,,,Picea abies,PIAB Picea abies,Large,12 in.,Mature,10 ft.,Good,
+572,Norway Spruce,41.898208618,-87.945014954,N/A,,,,Picea abies,PIAB Picea abies,Large,16 in.,Mature,15 ft.,Good,
+573,Yellowwood,41.898200989,-87.945037842,N/A,,,,Cladrastis kentukea,,Medium,5 in.,Semi-mature,10 ft.,Good,
+574,Japanese Flowering Crabapple,41.898151398,-87.945205688,N/A,,,,Malus floribunda,,Medium,7 in.,Mature,10 ft.,Good,
+575,Red Buckeye,41.898208618,-87.945175171,N/A,,,,Aesculus pavia,AEPA Aesculus pavia,Small,4 in.,Semi-mature,10 ft.,Good,images/575.jpg
+576,Saucer Magnolia,41.898265839,-87.945121765,N/A,,,,Magnolia x soulangeana,,Small,2 in.,Mature,6 ft.,Good,
+578,Cornelian Cherry Dogwood,41.898254395,-87.945327759,N/A,,,,Cornus mas,,Small,1 in.,Mature,6 ft.,Good,
+579,Norway Maple,41.898208618,-87.945381165,N/A,,,,Acer platanoides,ACPL Acer platanoides,Large,16 in.,Mature,15 ft.,Good,
+580,Saucer Magnolia,41.898181915,-87.945358276,N/A,,,,Magnolia x soulangeana,,Small,2 in.,Mature,6 ft.,Good,
+581,Sawtooth Oak,41.898174286,-87.945266724,N/A,,,,Quercus acutissima,QUAC Quercus accutissima,Medium,4 in.,Semi-mature,10 ft.,Good,
+582,Norway Maple,41.898094177,-87.945388794,N/A,,,,Acer platanoides,ACPL Acer platanoides,Large,14 in.,Mature,20 ft.,Good,
+583,Common Honeylocust,41.898097992,-87.945106506,N/A,,,,Gleditsia triacanthos,,Large,20 in.,Mature,30 ft.,Good,
+584,Red Mulberry,41.898124695,-87.945030212,N/A,,,,Morus rubra,,Large,18 in.,Mature,15 ft.,Fair,images/584.jpg
+585,Mugo Pine,41.898124695,-87.945030212,N/A,,,,Pinus mugo,mugo pine,Small,2 in.,Mature,10 ft.,Good,
+586,Chinkapin Oak,41.898101807,-87.944976807,N/A,,,,Quercus muehlenbergii,check,Small,4 in.,Young,6 ft.,Good,images/586.jpg
+589,Eastern Redbud,41.898418427,-87.945594788,N/A,,,,Cercis canadensis,CECA Cercis canadensis,Medium,7 in.,Mature,10 ft.,Fair,
+590,Ohio Buckeye,41.899349213,-87.944946289,N/A,,,,Aesculus glabra,,Small,4 in.,Young,6 ft.,Fair,
+592,Yew,41.899032593,-87.944999695,N/A,,,,Taxus sp,,Medium,3 in.,Mature,6 ft.,Good,
+593,Burning Bush Euonymus,41.898910522,-87.945053101,N/A,,,,Euonymus alatus,,Medium,3 in.,Mature,6 ft.,Fair,
+594,Eastern Redcedar,41.898921967,-87.945068359,N/A,,,,Juniperus virginiana,,Large,10 in.,Mature,10 ft.,Good,
+595,Eastern Redcedar,41.898902893,-87.945137024,N/A,,,,Juniperus virginiana,,Large,16 in.,Mature,10 ft.,Good,
+597,Lilac,41.898918152,-87.945404053,N/A,,,,Syringa sp,vulgaris,Small,1 in.,Semi-mature,6 ft.,Good,
+598,Amur Maple,41.898914337,-87.945426941,N/A,,,,Acer ginnala,check,Small,4 in.,Young,1 ft.,Good,images/598.jpg
+599,Common Horsechestnut,41.898918152,-87.945526123,N/A,,,,Aesculus hippocastanum,,Large,19 in.,Mature,20 ft.,Good,
+601,Sycamore Maple,41.899021149,-87.945602417,N/A,,,,Acer pseudoplatanus,Esk Sunset,Small,1 in.,New planting,1 ft.,Fair,images/601.jpg
+602,Ohio Buckeye,41.899036407,-87.945617676,N/A,,,,Aesculus glabra,a x mutabilis,Small,1 in.,New planting,6 ft.,Fair,
+603,Japanese Maple,41.899055481,-87.945610046,N/A,,,,Acer palmatum,scolopendrifolium,Small,2 in.,Young,1 ft.,Good,images/603.jpg
+605,Hedge Maple,41.899108887,-87.945610046,N/A,,,,Acer campestre,carnival,Small,1 in.,New planting,1 ft.,Fair,
+606,Scotch Pine,41.899154663,-87.945579529,N/A,,,,Pinus sylvestris,,Medium,14 in.,Mature,20 ft.,Good,
+607,Hackberry,41.899154663,-87.945579529,N/A,,,,Celtis occidentalis,,Medium,5 in.,Semi-mature,10 ft.,Good,images/607.jpg
+608,Chinese Elm,41.899272919,-87.945564270,N/A,,,,Ulmus parvifolia,,Medium,10 in.,Mature,15 ft.,Fair,
+609,Norway Maple,41.899543762,-87.945434570,N/A,,,,Acer platanoides,ACPL Acer platanoides,Large,16 in.,Mature,15 ft.,Good,
+610,Norway Maple,41.899570465,-87.945274353,N/A,,,,Acer platanoides,ACPL Acer platanoides,Large,15 in.,Mature,15 ft.,Good,
+611,Hawthorn,41.899078369,-87.945632935,N/A,,,,Crataegus sp,,Small,2 in.,Mature,10 ft.,Good,
+612,Serviceberry,41.899028778,-87.945777893,N/A,,,,Amelanchier canadensis,,Medium,3 in.,Mature,10 ft.,Good,
+613,Cornelian Cherry Dogwood,41.898983002,-87.945777893,N/A,,,,Cornus mas,,Medium,4 in.,Mature,15 ft.,Good,
+614,Cornelian Cherry Dogwood,41.898944855,-87.945785522,N/A,,,,Cornus mas,,Medium,4 in.,Mature,15 ft.,Good,
+615,Cornelian Cherry Dogwood,41.898918152,-87.945808411,N/A,,,,Cornus mas,,Medium,4 in.,Mature,15 ft.,Good,
+616,Saucer Magnolia,41.898895264,-87.945846558,N/A,,,,Magnolia x soulangeana,,Medium,4 in.,Mature,15 ft.,Good,images/616.jpg
+618,White Fir,41.898887634,-87.945945740,N/A,,,,Abies concolor,,Large,12 in.,Mature,10 ft.,Good,
+619,White Fir,41.898883820,-87.945968628,N/A,,,,Abies concolor,,Large,8 in.,Semi-mature,10 ft.,Good,
+620,White Fir,41.898914337,-87.945983887,N/A,,,,Abies concolor,,Large,10 in.,Mature,10 ft.,Good,
+621,White Fir,41.898902893,-87.946052551,N/A,,,,Abies concolor,,Large,8 in.,Semi-mature,10 ft.,Good,
+622,White Fir,41.898902893,-87.946067810,N/A,,,,Abies concolor,,Large,7 in.,Semi-mature,10 ft.,Good,
+623,White Fir,41.898891449,-87.946151733,N/A,,,,Abies concolor,,Large,10 in.,Mature,10 ft.,Good,
+624,White Fir,41.898891449,-87.946151733,N/A,,,,Abies concolor,,Large,8 in.,Semi-mature,10 ft.,Good,
+625,White Fir,41.898899078,-87.946174622,N/A,,,,Abies concolor,,Large,9 in.,Semi-mature,10 ft.,Good,
+627,Cornelian Cherry Dogwood,41.898834229,-87.946434021,N/A,,,,Cornus mas,,Small,1 in.,Mature,6 ft.,Good,
+628,Cornelian Cherry Dogwood,41.899047852,-87.946784973,N/A,,,,Cornus mas,,Small,1 in.,Mature,6 ft.,Good,
+629,Cornelian Cherry Dogwood,41.899215698,-87.946800232,N/A,,,,Cornus mas,,Small,1 in.,Mature,6 ft.,Good,
+631,Norway Maple,41.899562836,-87.945732117,N/A,,,,Acer platanoides,ACPL Acer platanoides,Medium,8 in.,Semi-mature,10 ft.,Good,
+636,Common Honeylocust,41.899517059,-87.946578979,N/A,,,,Gleditsia triacanthos,,Large,12 in.,Mature,15 ft.,Good,
+637,Common Honeylocust,41.899494171,-87.946723938,N/A,,,,Gleditsia triacanthos,,Large,16 in.,Mature,20 ft.,Good,
+652,White Spruce,41.899356842,-87.948066711,N/A,,,,Picea glauca,,Medium,4 in.,Mature,10 ft.,Good,
+653,Colorado Blue Spruce,41.899375916,-87.947898865,N/A,,,,Picea pungens,,Medium,4 in.,Mature,10 ft.,Good,
+654,White Fir,41.899391174,-87.947639465,N/A,,,,Abies concolor,,Medium,4 in.,Mature,10 ft.,Fair,
+656,Colorado Blue Spruce,41.899414063,-87.947479248,N/A,,,,Picea pungens,,Medium,3 in.,Semi-mature,10 ft.,Good,
+657,White Spruce,41.899425507,-87.947395325,N/A,,,,Picea glauca,,Small,4 in.,Mature,10 ft.,Good,
+658,Colorado Blue Spruce,41.899383545,-87.947364807,N/A,,,,Picea pungens,,Large,11 in.,Mature,10 ft.,Good,
+659,Colorado Blue Spruce,41.899417877,-87.947357178,N/A,,,,Picea pungens,,Medium,4 in.,Semi-mature,10 ft.,Good,
+660,Common Honeylocust,41.899318695,-87.947303772,N/A,,,,Gleditsia triacanthos,,Large,12 in.,Mature,15 ft.,Good,
+662,Norway Maple,41.899044037,-87.947189331,N/A,,,,Acer platanoides,ACPL Acer platanoides,Medium,10 in.,Semi-mature,15 ft.,Fair,images/662.jpg
+663,Japanese Flowering Crabapple,41.899044037,-87.947212219,N/A,,,,Malus floribunda,,Small,3 in.,Mature,6 ft.,Good,
+664,Cornelian Cherry Dogwood,41.899051666,-87.947418213,N/A,,,,Cornus mas,,Small,3 in.,Mature,6 ft.,Good,
+665,Cornelian Cherry Dogwood,41.898933411,-87.947624207,N/A,,,,Cornus mas,,Small,3 in.,Mature,6 ft.,Good,
+666,American Elm,41.898769379,-87.947837830,N/A,,,,Ulmus americana,,Small,28 in.,Mature,25 ft.,Good,
+667,Cornelian Cherry Dogwood,41.898864746,-87.947860718,N/A,,,,Cornus mas,,Small,4 in.,Mature,6 ft.,Good,
+668,Common Honeylocust,41.899036407,-87.948051453,N/A,,,,Gleditsia triacanthos,,Large,16 in.,Mature,20 ft.,Good,
+669,Cornelian Cherry Dogwood,41.898902893,-87.948028564,N/A,,,,Cornus mas,,Small,4 in.,Mature,6 ft.,Good,
+670,Japanese Flowering Crabapple,41.898757935,-87.948188782,N/A,,,,Malus floribunda,,Small,3 in.,Mature,10 ft.,Good,
+671,Japanese Flowering Crabapple,41.898742676,-87.948272705,N/A,,,,Malus floribunda,,Small,4 in.,Mature,6 ft.,Good,
+672,Common Honeylocust,41.898796082,-87.948364258,N/A,,,,Gleditsia triacanthos,,Large,15 in.,Mature,15 ft.,Good,
+675,Common Honeylocust,41.899036407,-87.948226929,N/A,,,,Gleditsia triacanthos,,Medium,8 in.,Mature,10 ft.,Good,
+676,Common Honeylocust,41.899204254,-87.948379517,N/A,,,,Gleditsia triacanthos,,Medium,8 in.,Semi-mature,10 ft.,Good,
+677,Common Honeylocust,41.898811340,-87.948478699,N/A,,,,Gleditsia triacanthos,,Large,17 in.,Mature,15 ft.,Good,
+678,Yew,41.898784637,-87.948471069,N/A,,,,Taxus sp,,Medium,2 in.,Mature,6 ft.,Good,
+679,Yew,41.898700714,-87.948547363,N/A,,,,Taxus sp,,Medium,2 in.,Mature,6 ft.,Good,
+680,American Elm,41.898681641,-87.948562622,N/A,,,,Ulmus americana,,Large,32 in.,Mature,20 ft.,Good,
+681,Lilac,41.898731232,-87.948646545,N/A,,,,Syringa sp,vulgaris,Small,1 in.,Mature,10 ft.,Good,images/681.jpg
+682,Common Honeylocust,41.899036407,-87.948760986,N/A,,,,Gleditsia triacanthos,,Large,18 in.,Mature,20 ft.,Good,
+686,Aspen,41.898944855,-87.952171326,N/A,,,,Populus tremuloides,,Small,1 in.,Young,6 ft.,Good,
+687,Aspen,41.898944855,-87.952095032,N/A,,,,Populus tremuloides,,Small,1 in.,Young,6 ft.,Good,
+688,Aspen,41.898960114,-87.951988220,N/A,,,,Populus tremuloides,,Small,2 in.,Young,6 ft.,Good,
+689,Aspen,41.898960114,-87.951896667,N/A,,,,Populus tremuloides,,Small,1 in.,Young,6 ft.,Good,
+690,Aspen,41.898963928,-87.951789856,N/A,,,,Populus tremuloides,,Small,1 in.,Young,6 ft.,Good,
+691,Aspen,41.898998260,-87.951446533,N/A,,,,Populus tremuloides,,Small,1 in.,Young,6 ft.,Good,
+692,Aspen,41.899009705,-87.951354980,N/A,,,,Populus tremuloides,,Small,1 in.,Young,6 ft.,Good,
+693,Aspen,41.899005890,-87.951232910,N/A,,,,Populus tremuloides,,Small,1 in.,Young,6 ft.,Good,
+694,Aspen,41.899017334,-87.951141357,N/A,,,,Populus tremuloides,,Small,1 in.,Young,6 ft.,Good,
+695,Aspen,41.899024963,-87.951042175,N/A,,,,Populus tremuloides,,Small,1 in.,Young,6 ft.,Good,
+696,Bur Oak,41.895874023,-87.947578430,Memorial,2010,Ann O'Brochta,In ground marker,Quercus macrocarpa,QUERCUS X SCHUETTI,Small,2 in.,New planting,6 ft.,Good,images/696.jpg
+697,Tuliptree,41.896282196,-87.949195862,N/A,,,,Liriodendron tulipifera,,Medium,3 in.,Young,6 ft.,Good,
+698,Tuliptree,41.896224976,-87.949195862,N/A,,,,Liriodendron tulipifera,,Medium,3 in.,Young,6 ft.,Good,
+699,Tuliptree,41.896236420,-87.949134827,N/A,,,,Liriodendron tulipifera,,Medium,3 in.,Young,6 ft.,Good,
+700,Tuliptree,41.896282196,-87.949134827,N/A,,,,Liriodendron tulipifera,,Medium,2 in.,Young,4 ft.,Good,
+701,Tuliptree,41.896305084,-87.948974609,N/A,,,,Liriodendron tulipifera,,Medium,2 in.,Young,6 ft.,Good,
+702,Tuliptree,41.896251678,-87.948966980,N/A,,,,Liriodendron tulipifera,,Medium,3 in.,Young,6 ft.,Good,
+703,Tuliptree,41.896194458,-87.948959351,N/A,,,,Liriodendron tulipifera,,Medium,3 in.,Young,6 ft.,Good,
+704,European Beech,41.895439148,-87.945808411,N/A,,,,Fagus sylvatica,Faux de Vaus,Small,4 in.,Young,6 ft.,Good,
+705,Northern Red Oak,41.894866943,-87.946838379,N/A,,,,Quercus rubra,,Small,3 in.,Young,6 ft.,Good,
+706,Star Magnolia,41.894966125,-87.946990967,N/A,,,,Magnolia stellata,,Small,2 in.,Semi-mature,6 ft.,Good,
+708,Austrian Pine,41.894992828,-87.946823120,N/A,,,,Pinus nigra,,Large,14 in.,Mature,15 ft.,Dead,
+709,Sawtooth Oak,41.895088196,-87.946853638,N/A,,,,Quercus acutissima,QUAC Quercus accutissima,Medium,8 in.,Semi-mature,10 ft.,Good,
+710,Japanese Flowering Crabapple,41.894870758,-87.946723938,N/A,,,,Malus floribunda,sargentii,Small,2 in.,Semi-mature,6 ft.,Good,
+711,European Beech,41.895172119,-87.946861267,N/A,,,,Fagus sylvatica,FASY Fagus sylvatica,Small,8 in.,Young,10 ft.,Good,
+712,Black Oak,41.895221710,-87.946853638,N/A,,,,Quercus velutina,,Large,11 in.,Semi-mature,15 ft.,Good,
+713,Katsuratree,41.895271301,-87.946868896,N/A,,,,Cercidiphyllum japonicum,Pendula,Small,4 in.,Young,15 ft.,Good,
+714,Miyabei Maple,41.895236969,-87.946975708,N/A,,,,Acer miyabei,ACMI Acer miyabe,Medium,7 in.,Mature,10 ft.,Good,
+715,Oriental Beech,41.895256042,-87.947059631,To honor,1999,Yat Lok Eng,In ground marker,Fagus orientalis,,Medium,6 in.,Mature,10 ft.,Good,images/715.jpg
+717,Black Walnut,41.895244598,-87.947151184,N/A,,,,Juglans nigra,,Large,26 in.,Mature,25 ft.,Good,
+719,Austrian Pine,41.895225525,-87.947235107,N/A,,,,Pinus nigra,,Large,18 in.,Mature,10 ft.,Fair,images/719.jpg
+720,Colorado Blue Spruce,41.895225525,-87.947166443,N/A,,,,Picea pungens,,Small,2 in.,Semi-mature,6 ft.,Fair,
+722,Yellowwood,41.894878387,-87.947052002,N/A,,,,Cladrastis kentukea,,Medium,8 in.,Mature,15 ft.,Fair,images/722.jpg
+726,Elm,41.898063660,-87.946601868,N/A,,,,Ulmus sp,Triumph,Medium,5 in.,Young,10 ft.,Good,
+727,Oak,41.898025513,-87.947982788,N/A,,,,Quercus sp,macrocarpa x robur,Medium,4 in.,New planting,10 ft.,Good,
+728,Japanese Flowering Crabapple,41.895503998,-87.945739746,N/A,,,,Malus floribunda,sargentii,Small,2 in.,Semi-mature,6 ft.,Good,
+729,Star Magnolia,41.895900726,-87.945709229,To honor,2014,Dr. Helga Noice,In ground marker,Magnolia stellata,,Small,4 in.,Semi-mature,10 ft.,Good,images/729.jpg
+733,Star Magnolia,41.895492554,-87.947257996,N/A,,,,Magnolia stellata,,Small,4 in.,Semi-mature,10 ft.,Good,
+734,Star Magnolia,41.895500183,-87.947257996,N/A,,,,Magnolia stellata,,Small,4 in.,Semi-mature,10 ft.,Good,
+736,Elm,41.895271301,-87.948837280,N/A,,,,Ulmus sp,Accolade,Medium,3 in.,Semi-mature,6 ft.,Good,
+737,Japanese Zelkova,41.895282745,-87.948997498,N/A,,,,Zelkova serrata,,Medium,4 in.,Semi-mature,15 ft.,Good,
+738,Colorado Blue Spruce,41.895286560,-87.949066162,N/A,,,,Picea pungens,,Medium,3 in.,Semi-mature,6 ft.,Good,
+739,Elm,41.895259857,-87.949111938,N/A,,,,Ulmus sp,Accolade,Medium,2 in.,Young,6 ft.,Good,
+740,Elm,41.895267487,-87.949142456,N/A,,,,Ulmus sp,Accolade,Medium,1 in.,Young,6 ft.,Good,
+741,Elm,41.895263672,-87.949165344,N/A,,,,Ulmus sp,Accolade,Medium,2 in.,Young,6 ft.,Good,
+742,Japanese Zelkova,41.895267487,-87.949195862,N/A,,,,Zelkova serrata,,Medium,11 in.,Semi-mature,10 ft.,Good,
+744,Elm,41.895271301,-87.949256897,N/A,,,,Ulmus sp,Accolade,Small,3 in.,Semi-mature,6 ft.,Good,
+745,Swamp White Oak,41.895256042,-87.949287415,N/A,,,,Quercus bicolor,,Small,1 in.,Young,1 ft.,Fair,
+746,Elm,41.895282745,-87.949302673,N/A,,,,Ulmus sp,Accolade,Small,2 in.,Young,6 ft.,Good,
+747,Elm,41.895259857,-87.949325562,N/A,,,,Ulmus sp,Accolade,Small,2 in.,Young,6 ft.,Good,
+749,Elm,41.895271301,-87.949394226,N/A,,,,Ulmus sp,Accolade,Small,2 in.,Young,6 ft.,Good,
+750,Swamp White Oak,41.895259857,-87.949440002,N/A,,,,Quercus bicolor,,Small,3 in.,Young,6 ft.,Good,
+754,Bur Oak,41.895317078,-87.950042725,N/A,,,,Quercus macrocarpa,check,Small,3 in.,Semi-mature,6 ft.,Good,
+755,Eastern White Pine,41.895435333,-87.950141907,N/A,,,,Pinus strobus,,Small,3 in.,Young,6 ft.,Good,
+758,Eastern White Pine,41.895542145,-87.950126648,N/A,,,,Pinus strobus,,Small,3 in.,Young,6 ft.,Good,
+761,Eastern White Pine,41.895626068,-87.950141907,N/A,,,,Pinus strobus,,Small,3 in.,Young,6 ft.,Good,
+762,Eastern White Pine,41.895656586,-87.950111389,N/A,,,,Pinus strobus,,Small,3 in.,Young,6 ft.,Good,
+763,Common Honeylocust,41.895645142,-87.950149536,N/A,,,,Gleditsia triacanthos,,Large,20 in.,Mature,15 ft.,Good,
+764,Common Honeylocust,41.895652771,-87.950164795,N/A,,,,Gleditsia triacanthos,,Large,24 in.,Mature,15 ft.,Good,
+765,Common Honeylocust,41.895698547,-87.950164795,N/A,,,,Gleditsia triacanthos,,Medium,12 in.,Semi-mature,10 ft.,Good,
+766,Eastern White Pine,41.895706177,-87.950149536,N/A,,,,Pinus strobus,,Small,2 in.,Young,6 ft.,Good,
+767,Eastern White Pine,41.895744324,-87.950126648,N/A,,,,Pinus strobus,,Small,2 in.,Young,6 ft.,Good,
+768,Common Honeylocust,41.895736694,-87.950149536,N/A,,,,Gleditsia triacanthos,,Small,22 in.,Semi-mature,20 ft.,Good,
+771,Black Walnut,41.895793915,-87.950157166,N/A,,,,Juglans nigra,,Medium,18 in.,Semi-mature,15 ft.,Good,
+772,American Elm,41.895816803,-87.950164795,N/A,,,,Ulmus americana,,Large,22 in.,Mature,20 ft.,Good,
+773,Common Honeylocust,41.895839691,-87.950164795,N/A,,,,Gleditsia triacanthos,,Large,21 in.,Mature,15 ft.,Good,
+774,Common Honeylocust,41.895896912,-87.950157166,N/A,,,,Gleditsia triacanthos,,Large,30 in.,Mature,20 ft.,Good,
+776,Common Honeylocust,41.896148682,-87.950157166,N/A,,,,Gleditsia triacanthos,,Large,36 in.,Mature,30 ft.,Good,
+777,Eastern Redbud,41.896144867,-87.950103760,N/A,,,,Cercis canadensis,CECA Cercis canadensis,Small,1 in.,Semi-mature,6 ft.,Good,
+779,Eastern Redbud,41.896015167,-87.950111389,N/A,,,,Cercis canadensis,CECA Cercis canadensis,Small,2 in.,Semi-mature,6 ft.,Good,
+780,Serviceberry,41.895870209,-87.950096130,N/A,,,,Amelanchier sp,arborea Downy,Small,1 in.,Semi-mature,6 ft.,Good,
+783,Serviceberry,41.895709991,-87.950088501,N/A,,,,Amelanchier sp,arborea Downy,Small,1 in.,Semi-mature,6 ft.,Good,
+784,Serviceberry,41.895580292,-87.950088501,N/A,,,,Amelanchier sp,arborea Downy,Small,1 in.,Semi-mature,6 ft.,Good,
+785,Serviceberry,41.895500183,-87.950088501,N/A,,,,Amelanchier sp,arborea Downy,Small,1 in.,Semi-mature,6 ft.,Good,
+786,Japanese Flowering Crabapple,41.894634247,-87.946228027,N/A,,,,Malus floribunda,sargentii,Small,2 in.,Semi-mature,6 ft.,Good,
+787,Cockspur Hawthorn,41.894489288,-87.945510864,N/A,,,,Crataegus crusgalli,var.inermis,Small,2 in.,New planting,6 ft.,Good,images/787.jpg
+788,Bur Oak,41.895408630,-87.949386597,,,,,Quercus macrocarpa,,Small,2 in.,Young,4 ft.,Good,
+789,Red Maple,41.896503448,-87.948944092,,,,,Acer rubrum,,Small,2 in.,Young,4 ft.,Good,images/789.jpg
+790,Washington Hawthorn,41.898311615,-87.945793152,,,,,Crataegus phaenopyrum,,Small,1 in.,Young,2 ft.,Good,
+791,Black Tupelo,41.895565033,-87.947525024,,,,,Nyssa sylvatica,,Small,1 in.,Young,2 ft.,Good,images/791.jpg
+792,Norway Maple,41.898265839,-87.945220947,,,,,Acer platanoides,,Medium,8 in.,Semi-mature,8 ft.,Good,
+793,Japanese Maple,41.899536133,-87.944976807,,,,,Acer palmatum,,Small,2 in.,Semi-mature,4 ft.,Good,
+794,Star Magnolia,41.895915985,-87.948295593,To honor,1997,Erin E. Olmstead,In ground marker,Magnolia stellata,,,2 in.,Mature,4 ft.,Good,images/794.jpg
+795,Manchu Striped Maple,41.896472931,-87.947921753,,,,,Acer tegmentosum,White Tigress,Medium,3 in.,Young,6 ft.,Good,images/795.jpg
+796,Osage Orange,41.897983551,-87.948905945,,,,,Maclura pomifera,White Shield,Medium,3 in.,Young,4 ft.,Good,
+797,Japanese Maple,41.896472931,-87.948295593,,2015,Rev. Richard Emil Sova '49,,Acer palmatum,Red Emperor,Medium,2 in.,Young,6 ft.,Good,images/797.jpg
+798,Black Locust,41.898002625,-87.948158264,,,,,Robinia pseudoacacia,Purple Robe,Medium,4 in.,Young,8 ft.,Good,
+799,London Planetree,41.898029327,-87.947341919,,,,,Platanus x acerifolia,Morton Circle,Medium,4 in.,Young,10 ft.,Good,
+800,London Planetree,41.898033142,-87.947166443,,,,,Platanus x acerifolia,Morton Euclid,Medium,4 in.,Young,10 ft.,Good,
+802,White Fringetree,41.896900177,-87.946098328,,,,,Chionanthus virginicus,,Small,2 in.,Young,4 ft.,Good,
+803,White Fringetree,41.896892548,-87.946052551,,,,,Chionanthus virginicus,,Small,2 in.,Young,4 ft.,Good,
+804,Littleleaf Linden,41.895912170,-87.945045471,,,,,Tilia cordata,Lico,Small,1 in.,Young,2 ft.,Good,images/804.jpg
+808,Pekin Lilac,41.896018982,-87.948547363,,2015,Erna Milkert,,Syringa pekinensis,Beijing Gold,Small,2 in.,Young,4 ft.,Good,images/808.jpg
+809,Pekin Lilac,41.896026611,-87.948753357,,,,,Syringa pekinensis,China Snow,Small,2 in.,Young,4 ft.,Good,
+810,Japanese Tree Lilac,41.895988464,-87.948646545,,,,,Syringa reticulata,Ivory Silk,Small,1.5 in.,Young,2 ft.,Good,
+811,Japanese Tree Lilac,41.895889282,-87.948616028,,,,,Syringa reticulata,Ivory Silk,Small,1.5 in.,Young,2 ft.,Good,
+812,Japanese Tree Lilac,41.895988464,-87.948478699,,,,,Syringa reticulata,Ivory Silk,Small,1.5 in.,Young,2 ft.,Good,
+813,Crabapple,41.898899078,-87.946617126,,,,,Malus sp,Sargentii,Small,1.5 in.,Young,4 ft.,Good,
+814,Crabapple,41.898929596,-87.946640015,,,,,Malus sp,Sargentii,Small,1.5 in.,Young,4 ft.,Good,
+815,Crabapple,41.898971558,-87.946647644,,,,,Malus sp,Sargentii,Small,1.5 in.,Young,4 ft.,Good,
+816,Crabapple,41.899002075,-87.946640015,,,,,Malus sp,Sargentii,Small,1.5 in.,Young,4 ft.,Good,
+817,Crabapple,41.899032593,-87.946647644,,,,,Malus sp,Sargentii,Small,1.5 in.,Young,4 ft.,Good,
+818,Crabapple,41.899066925,-87.946647644,,,,,Malus sp,Sargentii,,1.5 in.,,4 ft.,Good,
+819,Crabapple,41.899074554,-87.946647644,,,,,Malus sp,Sargentii,Small,1.5 in.,Young,4 ft.,Good,
+820,Crabapple,41.899101257,-87.946647644,,,,,Malus sp,Sargentii,Small,1.5 in.,Young,4 ft.,Good,
+821,Crabapple,41.899116516,-87.946647644,,,,,Malus sp,Sargentii,Small,1.5 in.,Young,4 ft.,Good,
+822,Crabapple,41.899135590,-87.946632385,,,,,Malus sp,Sargentii,Small,1.5 in.,Young,4 ft.,Good,
+823,Crabapple,41.899154663,-87.946640015,,,,,Malus sp,Sargentii,Small,1.5 in.,Young,4 ft.,Good,
+824,Crabapple,41.899196625,-87.946624756,,,,,Malus sp,Sargentii,Small,1.5 in.,Young,4 ft.,Good,
+825,Common Pawpaw,41.897472382,-87.945510864,,,,,Asimina triloba,,Small,2 in.,Young,4 ft.,Good,images/825.jpg
+826,Common Pawpaw,41.897453308,-87.945533752,,,,,Asimina triloba,,Small,2 in.,Young,4 ft.,Good,images/826.jpg
+827,Common Pawpaw,41.897449493,-87.945495605,,,,,Asimina triloba,,Small,2 in.,Young,4 ft.,Good,images/827.jpg
+828,Serviceberry,41.894535065,-87.945350647,,,,,Amelanchier sp,alnifolia,Medium,4 in.,Semi-mature,4 ft.,Good,
+829,Star Magnolia,41.894580841,-87.945068359,,,,,Magnolia stellata,,Medium,3 in.,Semi-mature,4 ft.,Good,
+830,Star Magnolia,41.894588470,-87.945037842,,,,,Magnolia stellata,,Medium,3 in.,Semi-mature,4 ft.,Good,images/830.jpg
+831,American Hornbeam,41.894550323,-87.946029663,,,,,Carpinus caroliniana,,Medium,3 in.,Semi-mature,4 ft.,Good,
+835,Chinese False Privet,41.895435333,-87.947509766,,,,,Fontanesia fortunei,Fontanesia fortunei,Medium,3 in.,Semi-mature,4 ft.,Good,
+837,Seven-son Flower,41.895809174,-87.947807312,,,,,Heptacodium miconioides,Heptacodium miconioides,Small,3 in.,Young,6 ft.,Good,
+838,Seven-son Flower,41.895820618,-87.947776794,,,,,Heptacodium miconioides,Heptacodium miconioides,Small,3 in.,Young,6 ft.,Good,
+839,Carolina Silverbell,41.895641327,-87.948417664,,,,,Halesia carolina,,Medium,2 in.,Young,4 ft.,Good,
+840,Tuliptree,41.898582458,-87.950881958,,,,,Liriodendron tulipifera,,Medium,4 in.,Young,6 ft.,Good,
+841,Eastern White Pine,41.898567200,-87.951202393,,,,,Pinus strobus,,Medium,6 in.,Semi-mature,4 ft.,Good,
+842,Eastern White Pine,41.898548126,-87.951568604,,,,,Pinus strobus,,Medium,6 in.,Semi-mature,6 ft.,Good,
+843,European Beech,41.898555756,-87.951652527,,,,,Fagus sylvatica,,Medium,6 in.,Semi-mature,4 ft.,Good,
+844,Eastern White Pine,41.898540497,-87.951972961,,,,,Pinus strobus,,Medium,6 in.,Semi-mature,6 ft.,Good,
+845,White Spruce,41.898529053,-87.952239990,,,,,Picea glauca,,Small,1 in.,New planting,2 ft.,Good,
+846,White Spruce,41.898532867,-87.952239990,,,,,Picea glauca,,Small,1 in.,New planting,2 ft.,Good,
+849,White Spruce,41.898536682,-87.952529907,,,,,Picea glauca,,Small,1 in.,New planting,2 ft.,Good,
+851,White Spruce,41.898532867,-87.952575684,,,,,Picea glauca,,Small,1 in.,New planting,2 ft.,Good,
+853,European Beech,41.896720886,-87.947662354,,,,,Fagus sylvatica,Red Obelisk,Small,2 in.,New planting,2 ft.,Good,images/853.jpg
+854,Colorado Blue Spruce,41.896690369,-87.947753906,,,,,Picea pungens,Gebelle's Golden Spring,Small,1.5 in.,New planting,4 ft.,Good,images/854.jpg
+855,Colorado Blue Spruce,41.896705627,-87.947738647,,,,,Picea pungens,Gebelle's Golden Spring,Small,1.5 in.,Young,4 ft.,Good,images/855.jpg
+856,Colorado Blue Spruce,41.896701813,-87.947715759,,,,,Picea pungens,Gebelle's Golden Spring,Small,1.5 in.,New planting,4 ft.,Good,images/856.jpg
+857,Dutch Elm,41.896717072,-87.947776794,,,,,Ulmus x hollandica,Wredei,Small,2 in.,New planting,2 ft.,Good,images/857.jpg
+860,Red Maple,41.897594452,-87.945770264,Memorial,0,Mary Hart Zink,In ground marker,Acer rubrum,Autumn Flame,Small,2 in.,New planting,4 ft.,Good,images/860.jpg
+861,Littleleaf Linden,41.896492004,-87.945732117,Memorial,0,"Leo F. ""Bud"" Obriecht",In ground marker,Tilia cordata,Greenspire,Small,2 in.,New planting,2 ft.,Good,images/861.jpg
+863,Sugar Maple,41.896511078,-87.947364807,Memorial,1988,Charles J. Kerbec,In ground marker,Acer saccharum,Green Mountain,Small,2 in.,New planting,2 ft.,Good,images/863.jpg
+864,Common Baldcypress,41.895870209,-87.945106506,,,,,Taxodium distichum,Shawnee Brave,Small,2 in.,New planting,4 ft.,Good,images/864.jpg
+865,Alaska Yellow Cedar,41.898670197,-87.946731567,,,,,Xanthocyparis nootkatensis,Pendula,Medium,2 in.,New planting,6 ft.,Good,images/865.jpg
+866,Japanese White Pine,41.896808624,-87.949317932,,,,,Pinus parviflora,Cleary,Small,1 in.,New planting,2 ft.,Good,images/866.jpg
+867,Japanese White Pine,41.896831512,-87.949279785,,,,,Pinus parviflora,Cleary,Small,1 in.,New planting,2 ft.,Good,images/867.jpg
+868,Crabapple,41.898067474,-87.948974609,,,,,Malus sp,Sargentii,Small,1.5 in.,Young,4 ft.,Good,images/868.jpg
+869,Crabapple,41.898101807,-87.949005127,,,,,Malus sp,Sargentii,Small,1.5 in.,Young,4 ft.,Good,images/869.jpg
+870,Crabapple,41.898124695,-87.948966980,,,,,Malus sp,Sargentii,Small,1.5 in.,Young,4 ft.,Good,images/870.jpg
+871,Cherry,41.898174286,-87.948974609,,,,,Prunus sp,Dream Catcher,Medium,1.5 in.,Young,6 ft.,Good,images/871.jpg
+872,Cherry,41.898197174,-87.949005127,,,,,Prunus sp,Dream Catcher,Medium,1.5 in.,New planting,6 ft.,Good,images/872.jpg
+873,Cherry,41.898231506,-87.948974609,,,,,Prunus sp,Dream Catcher,Medium,1.5 in.,Young,6 ft.,Good,images/873.jpg
+876,Seven-son Flower,41.898345947,-87.948982239,,,,,Heptacodium miconioides,Heptacodium miconioides,Medium,2 in.,Young,6 ft.,Good,images/876.jpg
+877,Seven-son Flower,41.898376465,-87.948974609,,,,,Heptacodium miconioides,Heptacodium miconioides,Medium,2 in.,Young,6 ft.,Good,images/877.jpg
+878,Seven-son Flower,41.898414612,-87.948974609,,,,,Heptacodium miconioides,Heptacodium miconioides,Medium,2 in.,Young,6 ft.,Good,images/878.jpg
+879,Seven-son Flower,41.898479462,-87.948982239,,,,,Heptacodium miconioides,Heptacodium miconioides,Medium,2 in.,Young,6 ft.,Good,images/879.jpg
+880,Seven-son Flower,41.898525238,-87.948966980,,,,,Heptacodium miconioides,Heptacodium miconioides,Medium,2 in.,Young,6 ft.,Good,images/880.jpg
+881,Green Hawthorn,41.897556305,-87.946166992,Memorial,2014,Grant A. Larocque,In ground marker,Crataegus viridis,Winter King,Medium,3 in.,New planting,6 ft.,Good,images/881.jpg
+883,Elm,41.896633148,-87.946044922,,,,,Ulmus sp,'Frontier',Small,1.75 in.,Young,6 ft.,Good,images/883.jpg
+884,Serviceberry,41.897884369,-87.946105957,To honor,2014,Dr. Lawrence B. Carroll,In ground marker,Amelanchier sp,x grandiflora,Medium,,Semi-mature,0 ft.,Good,images/884.jpg
+885,European Beech,41.895919800,-87.945167542,,,,,Fagus sylvatica,Spaethiana,Small,2 in.,New planting,2 ft.,Good,
+886,Smoothleaf Elm,41.899391174,-87.947814941,,,,,Ulmus carpinifolia,Morton Glossy/Triumph,Medium,9.98 in.,Young,8 ft.,Good,
+887,European Hornbeam,41.894863129,-87.945861816,,,,,Carpinus betulus,Frans Fontaine,Small,1 in.,New planting,2 ft.,Good,
+890,Elm,41.897808075,-87.948570251,,,,,Ulmus sp,New Horizon,Small,2.5 in.,New planting,4 ft.,Good,
+891,White Mulberry,41.897758484,-87.946769714,,,,,Morus alba,Pendula,Medium,4 in.,Semi-mature,6 ft.,Good,
+892,Lilac,41.896659851,-87.945159912,,,,,Syringa sp,Persian Lilac,Small,3 in.,Semi-mature,4 ft.,Fair,
+893,White Fringetree,41.896644592,-87.945121765,,,,,Chionanthus virginicus,retusus - Chinese Fringe,Medium,3 in.,Semi-mature,0 ft.,Fair,
+894,Pine,41.896705627,-87.948608398,,,,,Pinus sp,densiflora 'Pendula',Small,3 in.,Semi-mature,4 ft.,Good,
+895,Limber Pine,41.896720886,-87.948493958,,,,,Pinus flexilis,Glauca Pendula,Small,3 in.,Semi-mature,6 ft.,Good,
+896,Ginkgo,41.895515442,-87.945663452,,2015,Dr. William F. Fraccaro,,Ginkgo biloba,Autumn Gold,Small,2.5 in.,New planting,2 ft.,Good,images/896.jpg
+897,Oak,41.898075104,-87.946395874,,2015,Robb Frank,,Quercus sp,Kindred Spirit,Medium,3 in.,Young,4 ft.,Good,images/897.jpg
+899,Kentucky Coffeetree,41.895050049,-87.946876526,,,,,Gymnocladus dioicus,'Expresso',Small,2 in.,New planting,4 ft.,Good,images/899.jpg
+900,Star Magnolia,41.894767761,-87.946525574,,,,,Magnolia stellata,,Medium,2 in.,Semi-mature,6 ft.,Good,
+901,Star Magnolia,41.894760132,-87.946166992,,,,,Magnolia stellata,,Medium,2 in.,Semi-mature,6 ft.,Good,
+902,Shumard Oak,41.895858765,-87.946678162,,,,,Quercus shumardii,,Small,1.5 in.,New planting,2 ft.,Good,images/902.jpg
+903,Eastern Redbud,41.895591736,-87.945114136,,,,,Cercis canadensis,Pauline Lily,Small,2 in.,New planting,4 ft.,Good,images/903.jpg
+904,Star Magnolia,41.895423889,-87.947311401,,,,,Magnolia stellata,Kikuzaki,Small,2 in.,New planting,4 ft.,Good,
+906,Shantung Maple,41.898963928,-87.945602417,,,,,Acer truncatum,Pictum Mono Canyon Sunset,Small,1 in.,New planting,2 ft.,Good,images/906.jpg
+907,Shantung Maple,41.895786285,-87.945701599,,,,,Acer truncatum,Pictum Mono Canyon Sunset,Small,1 in.,New planting,2 ft.,Good,images/907.jpg
+908,Japanese Tree Lilac,41.896038055,-87.948669434,,,,,Syringa reticulata,Snowdance,Small,1 in.,New planting,2 ft.,Good,images/908.jpg
+911,Common Persimmon,41.895614624,-87.947761536,,,,,Diospyros virginiana,,Small,1 in.,New planting,2 ft.,Good,images/911.jpg
+912,Oak,41.895858765,-87.946502686,,,,,Quercus sp,leana,Small,1 in.,New planting,2 ft.,Good,images/912.jpg
+913,Dawn Redwood,41.895778656,-87.945907593,,2011,Meghan Henry,,Metasequoia glyptostroboides,,Small,2 in.,New planting,4 ft.,Good,images/913.jpg
+914,American Elm,41.895725250,-87.946304321,,,,,Ulmus americana,Princeton,Medium,2.5 in.,New planting,4 ft.,Good,images/914.jpg
+915,Pagoda Dogwood,41.896316528,-87.948356628,Memorial,0,Rev. Dr. Kenneth O. Mesle,,Cornus alternifolia,controversa 'June Snow',Medium,2 in.,New planting,4 ft.,Good,images/915.jpg
+916,Pagoda Dogwood,41.896179199,-87.948356628,To honor,2005,Paul and Adele Helm,,Cornus alternifolia,controversa 'June Snow',Medium,2 in.,New planting,4 ft.,Good,images/916.jpg
+917,Oak,41.895874023,-87.947288513,,,,,Quercus sp,rxb Castle Green,Small,2 in.,New planting,2 ft.,Good,images/917.jpg
+918,American Hophornbeam,41.896186829,-87.950096130,,,,,Ostrya virginiana,,Small,1 in.,New planting,2 ft.,Good,
+919,American Hophornbeam,41.896224976,-87.950096130,,,,,Ostrya virginiana,,Small,1 in.,New planting,2 ft.,Good,
+920,American Hophornbeam,41.896263123,-87.950096130,,,,,Ostrya virginiana,,Small,1 in.,New planting,2 ft.,Good,
+921,Northern Red Oak,41.896091461,-87.948425293,,,,,Quercus rubra,,Small,2 in.,New planting,2 ft.,Good,
+922,Yew,41.896358490,-87.945716858,,,,,Taxus sp,Elmhurst Yew,Medium,2 in.,Mature,2 ft.,Good,
+923,Common Baldcypress,41.896484375,-87.948074341,,,,,Taxodium distichum,,Small,2 in.,New planting,0 ft.,Good,images/923.jpg
+924,Serviceberry,41.896133423,-87.949081421,,,,,Amelanchier canadensis,,Medium,2 in.,Semi-mature,4 ft.,Good,
+925,Serviceberry,41.896369934,-87.949096680,,,,,Amelanchier canadensis,,Medium,3 in.,Semi-mature,4 ft.,Good,
+926,American Hornbeam,41.896373749,-87.949035645,,,,,Carpinus caroliniana,,Medium,4 in.,Semi-mature,6 ft.,Good,
+927,American Hornbeam,41.896415710,-87.948951721,,,,,Carpinus caroliniana,,Medium,4 in.,Semi-mature,4 ft.,Good,
+928,American Hornbeam,41.896545410,-87.948951721,,,,,Carpinus caroliniana,,Medium,4 in.,Semi-mature,4 ft.,Good,
+929,American Hornbeam,41.896564484,-87.949005127,,,,,Carpinus caroliniana,,Medium,4 in.,Semi-mature,4 ft.,Good,
+930,Dawn Redwood,41.896905948,-87.946043759,,,,,Metasequoia glyptostroboides,Miss Grace,Small,1.5 in.,Young,4 ft.,Good,
+932,Common Baldcypress,41.895217896,-87.945281982,,0,Helen and Thomas Smith/ Madeleine and Theodore Cutright,,Taxodium distichum,,Small,2 in.,New planting,4 ft.,Good,
+933,Common Baldcypress,41.894927979,-87.945350647,,0,Sgt. George Molenaar,,Taxodium distichum,,Small,2 in.,New planting,4 ft.,Good,
+934,Common Baldcypress,41.896886505,-87.946050957,,,,,Taxodium distichum,,Small,2 in.,New planting,4 ft.,Good,
+935,White Oak,41.896522522,-87.947212219,,,,,Quercus alba,,Small,1.5 in.,New planting,N/A ft.,Good,
+936,European Beech,41.896343231,-87.945106506,,0,Herbert M. and Ruth Licht,,Fagus sylvatica,Rohanii,Small,2 in.,Young,4 ft.,Good,images/936.jpg
+937,European Beech,41.896530151,-87.945114136,,,,,Fagus sylvatica,Riversii,Small,1.5 in.,New planting,2.5 ft.,Good,images/937.jpg
+938,Japanese Maple,41.899108887,-87.945617676,,,,,Acer palmatum,Bloodgood,Small,1.5 in.,New planting,2 ft.,Good,images/938.jpg
+939,Shantung Maple,41.895889282,-87.945259094,,,,,Acer truncatum,Velazquez,Small,3 in.,Young,8 ft.,Good,images/939.jpg
+940,Red Horsechestnut,41.895935059,-87.945419312,Memorial,2021,Cynthia Ann Waldecker,,Aesculus x carnea,Fort McNair,Small,2 in.,New planting,3 ft.,Good,images/940.jpg
+941,Red Horsechestnut,41.896453857,-87.945365906,,,,,Aesculus x carnea,Fort McNair,Small,2 in.,New planting,3 ft.,Good,images/941.jpg
+942,Shantung Maple,41.895973206,-87.946113586,,,,,Acer truncatum,Velazquez,Small,3 in.,Young,6 ft.,Good,images/942.jpg
+943,River Birch,41.895824432,-87.947906494,,0,"Byron ""BJ"" Jackson",,Betula nigra,Heritage,Small,3.99 in.,Young,15 ft.,Good,images/943.jpg
+944,Paperbark Maple,41.895824432,-87.948501587,,0,Diane Foster,,Acer griseum,,Small,2 in.,New planting,2 ft.,Good,images/944.jpg
+945,Sugar Maple,41.896438599,-87.948463440,Memorial,1993,Don and Zi Parsons,,Acer saccharum,,Small,2 in.,New planting,2 ft.,Good,images/945.jpg
+946,London Planetree,41.896541595,-87.948379517,Available tree,0,Haakon Moen,,Platanus x acerifolia,"'Morton Circle"" Exclamation",Small,1.5 in.,New planting,2 ft.,Good,images/946.jpg
+947,Japanese Tree Lilac,41.896091461,-87.948066711,,,,,Syringa reticulata,Ivory Silk,Small,2 in.,New planting,2.5 ft.,Good,images/947.jpg
+948,Japanese Tree Lilac,41.896083832,-87.948028564,,,,,Syringa reticulata,Ivory Silk,Small,2 in.,New planting,2.5 ft.,Good,images/948.jpg
+949,Japanese Tree Lilac,41.896114349,-87.948043823,,,,,Syringa reticulata,Ivory Silk,Small,2 in.,New planting,2.5 ft.,Good,images/949.jpg
+950,Japanese Tree Lilac,41.896385193,-87.948051453,,,,,Syringa reticulata,Ivory Silk,Small,2 in.,New planting,2.5 ft.,Good,images/950.jpg
+951,Japanese Tree Lilac,41.896377563,-87.948013306,,,,,Syringa reticulata,Ivory Silk,Small,2 in.,New planting,2.5 ft.,Good,images/951.jpg
+952,Japanese Tree Lilac,41.896404266,-87.948005676,,,,,Syringa reticulata,Ivory Silk,Small,2 in.,New planting,2.5 ft.,Good,images/952.jpg
+953,Ginkgo,41.895595600,-87.948577900,To honor,,Stanger,,Ginkgo biloba,,Medium,3 in.,Young,4 ft.,Good,images/953.jpg
+954,Elm,41.896022800,-87.945343000,,,,,Ulmus sp,Accolade Elm,,2 in.,New planting,1 ft.,Good,
+955,Sweetbay Magnolia,41.895904500,-87.948577900,,,,,Magnolia virginiana,,Small,2 in.,Young,2 ft.,Good,
+956,Magnolia,41.896919300,-87.947074900,,,,,Magnolia sp,Butterflies,,1 in.,New planting,1 ft.,Good,
+957,Norway Maple,41.895206500,-87.945060700,,,,,Acer platanoides,Emerald Queen,Small,2.5 in.,New planting,3 ft.,Good,
+958,Sugar Maple,41.895755800,-87.947776800,,,,,Acer saccharum,Fall Fiesta,Small,2.5 in.,New planting,3 ft.,Good,
+959,Japanese Maple,41.895042400,-87.945060700,,,,,Acer palmatum,Dissectum Orangeola Cutleaf,Small,2 in.,New planting,2 ft.,Good,
+960,Peach,41.899440800,-87.946510300,,,,,Prunus persica,Elberta,Small,0.5 in.,New planting,1 ft.,Good,
+961,Peach,41.899423177,-87.946531188,,,,,Prunus persica,Contender,Small,0.5 in.,New planting,1 ft.,Good,
+962,Peach,41.899403464,-87.946510300,,,,,Prunus persica,Elberta,Small,0.5 in.,New planting,1 ft.,Good,
+963,Peach,41.899385383,-87.946529847,,,,,Prunus persica,Contender,Small,0.5 in.,New planting,1 ft.,Good,
+964,Common Apple,41.899366190,-87.946507618,,,,,Malus domestica,Gala,Small,0.5 in.,New planting,1 ft.,Good,
+965,Common Apple,41.899353079,-87.946531412,,,,,Malus domestica,Honey Crisp,Small,0.5 in.,New planting,1 ft.,Good,
+966,Star Magnolia,41.897895800,-87.945602400,,,,,Magnolia stellata,Ann Magnolia,Small,0.5 in.,New planting,1 ft.,Good,
+967,Littleleaf Linden,41.895653019,-87.945825039,,,,,Tilia cordata,Greenspire,,3 in.,New planting,3 ft.,Good,
+968,Littleleaf Linden,41.895681469,-87.945943727,,,,,Tilia cordata,Greenspire,,3 in.,New planting,3 ft.,Good,
+969,Littleleaf Linden,41.895700384,-87.946108521,,,,,Tilia cordata,Greenspire,,3 in.,New planting,3 ft.,Good,
+970,Sargent Cherry,41.895454400,-87.946853600,,,,,Prunus sargentii,Columnaris,,2.5 in.,New planting,2 ft.,Good,
+971,Sargent Cherry,41.895572196,-87.946842871,,,,,Prunus sargentii,Columnaris,,2.5 in.,New planting,2 ft.,Good,
+972,Sargent Cherry,41.895669027,-87.946834825,,,,,Prunus sargentii,Columnaris,,2.5 in.,New planting,2 ft.,Good,
+973,Sargent Cherry,41.895739671,-87.946828119,,,,,Prunus sargentii,Columnaris,,2.5 in.,New planting,2 ft.,Good,

@@ -22,9 +22,47 @@
     <button type="submit">Search</button>
   </form>
 
-  <script src="trees.js"></script>
+  <section class="tree-list-section" aria-labelledby="tree-list-heading">
+    <h2 id="tree-list-heading">All trees</h2>
+    <table class="tree-list" id="tree-list">
+      <thead>
+        <tr>
+          <th scope="col" class="col-id">ID</th>
+          <th scope="col">Tree</th>
+          <th scope="col">Dedication</th>
+          <th scope="col">Age class</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="tree-list-status">
+          <td colspan="4">Loading trees…</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <script src="db.js"></script>
   <script>
     (function () {
+      function escapeHtml(s) {
+        if (s === null || s === undefined) return '';
+        return String(s)
+          .replace(/&/g, '&amp;')
+          .replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;')
+          .replace(/"/g, '&quot;')
+          .replace(/'/g, '&#39;');
+      }
+
+      function displayValue(v) {
+        // Treat blanks and "N/A" as no value; show an em dash.
+        if (v === null || v === undefined) return '—';
+        var s = String(v).trim();
+        if (s === '' || s.toUpperCase() === 'N/A') return '—';
+        return s;
+      }
+
+      // Search form
       var form = document.getElementById('search-form');
       var input = document.getElementById('tree-id');
 
@@ -33,17 +71,73 @@
         var raw = input.value.trim();
         // Strip leading zeros / non-digits
         var id = raw.replace(/^0+/, '') || raw;
-        if (!/^[0-9]+$/.test(id) || !TREES.hasOwnProperty(id)) {
-          // Invalid — do not navigate. Give a subtle visual cue.
+        if (!/^[0-9]+$/.test(id)) {
           input.classList.add('invalid');
           return;
         }
-        input.classList.remove('invalid');
-        window.location.href = 'tree.html?id=' + encodeURIComponent(id);
+        // Confirm the ID exists in the SQLite database before navigating.
+        TreeDB.hasTree(id).then(function (exists) {
+          if (!exists) {
+            input.classList.add('invalid');
+            return;
+          }
+          input.classList.remove('invalid');
+          window.location.href = 'tree.html?id=' + encodeURIComponent(id);
+        }).catch(function () {
+          input.classList.add('invalid');
+        });
       });
 
       input.addEventListener('input', function () {
         input.classList.remove('invalid');
+      });
+
+      // Tree list table
+      var tbody = document.querySelector('#tree-list tbody');
+
+      TreeDB.listTrees().then(function (trees) {
+        if (!trees || !trees.length) {
+          tbody.innerHTML =
+            '<tr class="tree-list-status"><td colspan="4">No trees found.</td></tr>';
+          return;
+        }
+
+        var html = '';
+        for (var i = 0; i < trees.length; i++) {
+          var t = trees[i];
+          var url = 'tree.html?id=' + encodeURIComponent(t.tree_id);
+          html +=
+            '<tr class="tree-row" data-href="' + escapeHtml(url) + '" tabindex="0">' +
+              '<td class="col-id">' + escapeHtml(t.tree_id) + '</td>' +
+              '<td><a class="tree-link" href="' + escapeHtml(url) + '">' +
+                escapeHtml(t.tree_name) + '</a></td>' +
+              '<td>' + escapeHtml(displayValue(t.dedication_type)) + '</td>' +
+              '<td>' + escapeHtml(displayValue(t.age_class)) + '</td>' +
+            '</tr>';
+        }
+        tbody.innerHTML = html;
+
+        // Make the whole row clickable. The tree-name cell already has a real
+        // <a> so middle-click / right-click "open in new tab" still works.
+        tbody.addEventListener('click', function (e) {
+          if (e.target.closest('a')) return; // let the anchor handle its own click
+          var row = e.target.closest('tr.tree-row');
+          if (row && row.dataset.href) {
+            window.location.href = row.dataset.href;
+          }
+        });
+
+        // Keyboard support: Enter on a focused row navigates.
+        tbody.addEventListener('keydown', function (e) {
+          if (e.key !== 'Enter') return;
+          var row = e.target.closest('tr.tree-row');
+          if (row && row.dataset.href) {
+            window.location.href = row.dataset.href;
+          }
+        });
+      }).catch(function () {
+        tbody.innerHTML =
+          '<tr class="tree-list-status"><td colspan="4">Failed to load trees.</td></tr>';
       });
     })();
   </script>

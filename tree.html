@@ -5,6 +5,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Tree — Elmhurst Trees</title>
   <link rel="stylesheet" href="styles.css">
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"
+    integrity="sha512-h9FcoyWjHcOcmEVkxOfTLnmZFWIH0iZhZT1H2TbOq55xssQGEJHEaIm+PgoUaZbRvQTNTluNOEfb1ZRy6D3BOw=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+  >
 </head>
 <body>
   <div class="page">
@@ -12,8 +19,14 @@
     <div id="content"></div>
   </div>
 
-  <script src="trees.js"></script>
+  <script src="db.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+  <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"
+    integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+  ></script>
   <script>
     (function () {
       function escapeHtml(s) {
@@ -114,6 +127,21 @@
           '</section>'
         );
 
+        // Optional map section (only if we have valid coordinates).
+        var lat = parseFloat(tree.latitude);
+        var lng = parseFloat(tree.longitude);
+        var hasLocation = !isNaN(lat) && !isNaN(lng) && lat !== 0 && lng !== 0;
+
+        if (hasLocation) {
+          parts.push(
+            '<section class="section">' +
+              '<h2>Location</h2>' +
+              '<div id="tree-map" class="tree-map" role="img" ' +
+                'aria-label="Map showing the location of this tree"></div>' +
+            '</section>'
+          );
+        }
+
         // QR code section linking back to this exact page
         parts.push(
           '<section class="section qr-section">' +
@@ -128,6 +156,33 @@
 
         // Generate the QR code pointing to the current URL.
         renderQrCode();
+
+        // Drop the Leaflet map after the container is in the DOM.
+        if (hasLocation) {
+          renderMap(lat, lng, tree.tree_name);
+        }
+      }
+
+      function renderMap(lat, lng, name) {
+        var el = document.getElementById('tree-map');
+        if (!el || typeof L === 'undefined') return;
+        try {
+          var map = L.map(el, {
+            center: [lat, lng],
+            zoom: 19,
+            scrollWheelZoom: false
+          });
+          L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+          }).addTo(map);
+          L.marker([lat, lng])
+            .addTo(map)
+            .bindPopup(name)
+            .openPopup();
+        } catch (err) {
+          // Map is non-essential — silently degrade if anything goes wrong.
+        }
       }
 
       function renderQrCode() {
@@ -157,11 +212,19 @@
       }
 
       var id = getParam('id').replace(/^0+/, '') || getParam('id');
-      if (id && TREES.hasOwnProperty(id)) {
-        render(TREES[id]);
-      } else {
+      if (!id) {
         renderNotFound(id);
+        return;
       }
+      TreeDB.getTree(id).then(function (tree) {
+        if (tree) {
+          render(tree);
+        } else {
+          renderNotFound(id);
+        }
+      }).catch(function () {
+        renderNotFound(id);
+      });
     })();
   </script>
 </body>
